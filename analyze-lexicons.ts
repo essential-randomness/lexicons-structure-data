@@ -1,4 +1,4 @@
-import { readdir, readFile } from "node:fs/promises";
+import { readdir, readFile, writeFile } from "node:fs/promises";
 
 const entries = await readdir("./records", { withFileTypes: true });
 
@@ -47,7 +47,23 @@ for (const entry of entries) {
   }
 }
 
-console.dir(lexicons, { depth: null });
+// Generate CSV content
+const csvRows: string[] = [];
+csvRows.push("lexicon,keys_count,types_count,keys,types,record_folder");
+
+for (const [lexiconName, data] of Object.entries(lexicons)) {
+  const keysArray = Array.from(data.keys);
+  const keysString = keysArray.join(";");
+  const typesString = data.types.join(";");
+
+  csvRows.push(
+    `"${lexiconName}","${data.keys.size}","${data.types.length}","${keysString}","${typesString}","${data.recordFolder}"`
+  );
+}
+
+const csvContent = csvRows.join("\n");
+await writeFile("./lexicons-analysis.csv", csvContent, "utf-8");
+console.log("Lexicons analysis saved to lexicons-analysis.csv");
 
 function extractAllKeysByLevel(record: Record<string, unknown>, level = 0) {
   const levelKeys = Object.keys(record);
