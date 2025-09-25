@@ -57,16 +57,8 @@ function extractAllKeysByLevel(record: Record<string, unknown>, level = 0) {
   for (const key of levelKeys) {
     newKeys[level].push(key);
     if (Array.isArray(record[key])) {
-      for (const item of record[key] as unknown[]) {
-        const nextLevelKeys = extractAllKeysByLevel(
-          item as Record<string, unknown>,
-          level + 1
-        );
-        for (const [arrayLevel, arrayKeys] of Object.entries(nextLevelKeys)) {
-          newKeys[arrayLevel] = newKeys[arrayLevel] ?? [];
-          newKeys[arrayLevel].push(...arrayKeys);
-        }
-      }
+      // Skip arrays - array indices aren't meaningful schema keys
+      continue;
     }
     if (typeof record[key] === "object" && record[key] !== null) {
       const nextLevelKeys = extractAllKeysByLevel(
@@ -91,7 +83,9 @@ function findAllTypes(record: Record<string, unknown>) {
     }
     if (Array.isArray(record[key])) {
       for (const item of record[key] as unknown[]) {
-        types.push(...findAllTypes(item as Record<string, unknown>));
+        if (typeof item === "object" && item !== null) {
+          types.push(...findAllTypes(item as Record<string, unknown>));
+        }
       }
     }
     if (typeof record[key] === "object" && record[key] !== null) {
