@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import { writeFile, mkdir, readFile } from "node:fs/promises";
 import { join } from "path";
 
 // Type definition for lexicon entries
@@ -33,10 +33,10 @@ function parseLexiconsCsv(csvContent: string): LexiconEntry[] {
 }
 
 // Load and parse the lexicons data
-function loadLexicons(): LexiconEntry[] {
+async function loadLexicons(): Promise<LexiconEntry[]> {
   try {
     const csvPath = join(process.cwd(), "lexicons.csv");
-    const csvContent = readFileSync(csvPath, "utf-8");
+    const csvContent = await readFile(csvPath, "utf-8");
     return parseLexiconsCsv(csvContent);
   } catch (error) {
     console.error("Error loading lexicons data:", error);
@@ -45,18 +45,56 @@ function loadLexicons(): LexiconEntry[] {
 }
 
 // Main execution
-const lexicons = loadLexicons();
+const lexicons = await loadLexicons();
 
-await Promise.all(
-  lexicons.slice(0, 2).map(async (lexicon) => {
-    const response = await fetch(
-      `https://ufos-api.microcosm.blue/records?collection=${lexicon.nsid}`
-    );
-    const data = await response.json();
-    console.log(lexicon.nsid);
-    console.dir(data, { depth: null });
-  })
-);
+type RecordGroup = {
+  did: string;
+  collection: string;
+  rkey: string;
+  record: Record<string, unknown>;
+};
+
+const getRecordsToFetch = async function* () {
+  let index = 0;
+  const eachTime = 5;
+  while (index < lexicons.length) {
+    yield lexicons.slice(index, index + eachTime);
+    index += eachTime;
+    await new Promise((resolve) => setTimeout(resolve, 2000));
+  }
+};
+
+for await (const lexiconsBatch of getRecordsToFetch()) {
+  await Promise.all(
+    lexiconsBatch.map(async (lexicon) => {
+      try {
+        const response = await fetch(
+          `https://ufos-api.microcosm.blue/records?collection=${lexicon.nsid}`
+        );
+        const result = (await response.json()) as RecordGroup[];
+        const folder = `${lexicon.domain}.${lexicon.category}`;
+
+        await mkdir(`./records/${folder}`, { recursive: true });
+
+        for (const group of result) {
+          await writeFile(
+            `./records/${folder}/${group.rkey}.json`,
+            JSON.stringify(group, null, 2)
+          );
+        }
+
+        await writeFile(
+          `./records/${folder}/index.json`,
+          JSON.stringify(lexicon, null, 2)
+        );
+
+        console.log(`✅ Downloaded records for ${lexicon.nsid}`);
+      } catch (error) {
+        console.error(`❌ Error downloading ${lexicon.nsid}:`, error);
+      }
+    })
+  );
+}
 
 // console.log("\nFirst 100 lexicons:");
 // console.log(JSON.stringify(lexicons.slice(0, 100), null, 2));
