@@ -65,6 +65,32 @@ const csvContent = csvRows.join("\n");
 await writeFile("./lexicons-analysis.csv", csvContent, "utf-8");
 console.log("Lexicons analysis saved to lexicons-analysis.csv");
 
+// Generate key-to-lexicons mapping CSV
+const keyToLexicons: Record<string, string[]> = {};
+
+// Build the reverse mapping
+for (const [lexiconName, data] of Object.entries(lexicons)) {
+  for (const key of data.keys) {
+    if (!keyToLexicons[key]) {
+      keyToLexicons[key] = [];
+    }
+    keyToLexicons[key].push(lexiconName);
+  }
+}
+
+// Generate CSV for key-to-lexicons mapping
+const keyMappingRows: string[] = [];
+keyMappingRows.push("key,lexicons_count,lexicons");
+
+for (const [key, lexiconsList] of Object.entries(keyToLexicons)) {
+  const lexiconsString = lexiconsList.join(";");
+  keyMappingRows.push(`"${key}","${lexiconsList.length}","${lexiconsString}"`);
+}
+
+const keyMappingContent = keyMappingRows.join("\n");
+await writeFile("./key-to-lexicons-mapping.csv", keyMappingContent, "utf-8");
+console.log("Key-to-lexicons mapping saved to key-to-lexicons-mapping.csv");
+
 function extractAllKeysByLevel(record: Record<string, unknown>, level = 0) {
   const levelKeys = Object.keys(record);
   const newKeys: Record<number, string[]> = {

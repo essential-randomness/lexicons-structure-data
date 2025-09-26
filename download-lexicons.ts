@@ -72,7 +72,8 @@ for await (const lexiconsBatch of getRecordsToFetch()) {
           `https://ufos-api.microcosm.blue/records?collection=${lexicon.nsid}`
         );
         const result = (await response.json()) as RecordGroup[];
-        const folder = `${lexicon.domain}.${lexicon.category}`;
+        const [tld, name, collection] = lexicon.nsid.split(".");
+        const folder = `${tld}.${name}.${collection}`;
 
         await mkdir(`./records/${folder}`, { recursive: true });
 
