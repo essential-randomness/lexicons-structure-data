@@ -137,6 +137,11 @@ function extractAllKeysByLevel(
   let nextLevelsKeys: Record<number, string[]>[] = [];
   for (const key of levelKeys) {
     // Add the keys at this level to the current level
+    // However, we don't want to add the type at the root level since it's
+    // just the type of the record and every record has it
+    if (startingLevel === 0 && key === "$type") {
+      continue;
+    }
     newKeys[startingLevel].push(key);
     if (Array.isArray(record[key])) {
       for (const item of record[key] as unknown[]) {
