@@ -1,4 +1,4 @@
-lexicon,keys_count,types_count,keys,types,record_folder
+lexicon_collection,keys_count,types_count,keys,types,record_folder
 "a.bookmark.on.my.pds","5","0","name;tags;text;uri;url","","./records/a.bookmark.on"
 "a.status.update","2","0","createdAt;text","","./records/a.status.update"
 "ai.hypgen.hypothesis","12","0","createdAt;critique;feasibility;hypothesis;id;impact;novelty;subgraphId;summary;title;url;urlId","","./records/ai.hypgen.hypothesis"

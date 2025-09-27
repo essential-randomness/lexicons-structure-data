@@ -29,6 +29,7 @@ type,lexicons_count,lexicons
 "fyi.bluelinks.links#link","1","fyi.bluelinks.links"
 "my.skylights.listItem#builtin","1","my.skylights.listItem"
 "app.bsky.embed.images","3","my.test.blob;net.anisota.feed.post;social.pipup.blog.entry"
+"net.anisota.game.inventory","1","net.anisota.game.inventory"
 "network.cosmik.card#urlContent","1","network.cosmik.card"
 "network.cosmik.card#urlMetadata","1","network.cosmik.card"
 "pub.leaflet.pages.linearDocument","1","pub.leaflet.document"
