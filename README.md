@@ -3,11 +3,17 @@
 A collection of scripts to analyze the frequency of key names and subtypes for
 collections in the ATmosphere.
 
-## Who made it
+## Who made this?
 
-[Ms Boba](https://essentialrandomness.com), who _\*winks winks\*_ has [a Patreon](https://patreon.com/FujoCoded).
+[Ms Boba](https://essentialrandomness.com), who you should [follow on
+Bluesky](https://essentialrandom.bsky.social), and who _\*winks winks\*_ has [a
+Patreon](https://patreon.com/FujoCoded).
 
-## What it does & How to Use it
+## Where can I see this in a spreadsheet?
+
+[Ask no further](https://docs.google.com/spreadsheets/d/1aY6AikjyXaAqMboNoXRkUGjtrGWbPi0uvbwdbCUlp7c/edit?usp=sharing)
+
+## What does this do & how do I use this?
 
 It uses the [microcosm.blue](https://ufos-api.microcosm.blue) to:
 
@@ -45,7 +51,8 @@ creates:
 
    - `key`: a key as it appears collection records
    - `collections_count`: how many collections include that key
-   - `namespaces_count`: how many namespaces (e.g. `app.bsky.social`) include that key
+   - `namespaces_count`: how many namespaces (e.g. `app.bsky.social`) include
+     that key
    - `collections`: which collections include that key, joined by ";"
    - `namespaces`: which namespaces include that key, joined by ";"
 
@@ -55,6 +62,7 @@ creates:
    - `type`: a type as it appears in a $type filed of a collection record (but
      not the top level record)
    - `collections_count`: how many collections include that type
-   - `namespaces_count`: how many namespaces (e.g. `app.bsky.social`) include that type
+   - `namespaces_count`: how many namespaces (e.g. `app.bsky.social`) include
+     that type
    - `collections`: which collections include that type, separated by ;
    - `namespaces`: which namespaces include that type, joined by ";"
