@@ -1,11 +1,12 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { glob, mkdir, readdir, readFile, writeFile } from "node:fs/promises";
+import path from "node:path";
 
 const collectionsData = await getAggregatedCollectionsData("./records");
 
 // First, we get the data for each collection, and save it as is to a CSV file
 // For each collection, this will tell us which keys and types are present in it
 const csvContent = [
-  "lexicon_collection,keys_count,types_count,keys,types,record_folder",
+  "collection,keys_count,types_count,keys,types,record_folder",
 ];
 for (const [collection, data] of Object.entries(collectionsData)) {
   const keysString = Array.from(data.keys).join(";");
@@ -15,70 +16,99 @@ for (const [collection, data] of Object.entries(collectionsData)) {
   );
 }
 
-await writeFile("./lexicons-analysis.csv", csvContent.join("\n"), "utf-8");
-console.log("Lexicons analysis saved to lexicons-analysis.csv");
+await mkdir("./data", { recursive: true });
+await writeFile(
+  "./data/collections-analysis.csv",
+  csvContent.join("\n"),
+  "utf-8"
+);
+console.log("Collections analysis saved to collections-analysis.csv");
 
 // Next, for each key, we get the list of collections that have it
 // and save it to another CSV file
-const keyMappingContent = ["key,lexicons_count,lexicons"];
-const keyToLexicons: Record<string, string[]> = {};
+const keyMappingContent = [
+  "key,collections_count,namespaces_count,collections,namespaces",
+];
+const keyToCollections: Record<string, string[]> = {};
+const keyToNamespaces: Record<string, string[]> = {};
 
 for (const [collection, data] of Object.entries(collectionsData)) {
   for (const key of data.keys) {
-    keyToLexicons[key] ??= [];
-    keyToLexicons[key].push(collection);
+    keyToCollections[key] ??= [];
+    keyToCollections[key].push(collection);
+    const [tld, name, group] = collection.split(".");
+    keyToNamespaces[key] ??= [];
+    keyToNamespaces[key].push(`${tld}.${name}.${group}`);
   }
 }
 
-// Clean up any duplicates in the keyToLexicons mapping and push
+// Clean up any duplicates in the keyToCollections mapping and push
 // it in the CSV file
-for (const key of Object.keys(keyToLexicons)) {
-  keyToLexicons[key] = [...new Set(keyToLexicons[key])];
+for (const key of Object.keys(keyToCollections)) {
+  keyToCollections[key] = [...new Set(keyToCollections[key])];
+  keyToNamespaces[key] = [...new Set(keyToNamespaces[key])];
   keyMappingContent.push(
-    `"${key}","${keyToLexicons[key].length}","${keyToLexicons[key].join(";")}"`
+    [
+      `"${key}"`,
+      `"${keyToCollections[key].length}"`,
+      `"${keyToNamespaces[key].length}"`,
+      `"${keyToCollections[key].join(";")}"`,
+      `"${keyToNamespaces[key].join(";")}"`,
+    ].join(",")
   );
 }
 
 await writeFile(
-  "./key-to-lexicons-mapping.csv",
+  "./data/key-to-collections-map.csv",
   keyMappingContent.join("\n"),
   "utf-8"
 );
-console.log("Key-to-lexicons mapping saved to key-to-lexicons-mapping.csv");
+console.log("Key-to-collections mapping saved to key-to-collections-map.csv");
 
 // Next, for type in a collection, we get the list of collections that have
 // that type in it. Since we've already excluded the top-level type, we don't
 // need to exclude the collection of that same type. Some appear to be nested,
 // and that's interesting by itself.
-const typeMappingContent = ["type,lexicons_count,lexicons"];
-const typeToLexicons: Record<string, string[]> = {};
+const typeMappingContent = [
+  "type,collections_count,namespaces_count,collections,namespaces",
+];
+const typeToCollections: Record<string, string[]> = {};
+const typeToNamespaces: Record<string, string[]> = {};
 
 for (const [collection, data] of Object.entries(collectionsData)) {
   for (const type of data.types) {
-    typeToLexicons[type] ??= [];
-    typeToLexicons[type].push(collection);
+    typeToCollections[type] ??= [];
+    typeToCollections[type].push(collection);
+    const [tld, name, group] = collection.split(".");
+    typeToNamespaces[type] ??= [];
+    typeToNamespaces[type].push(`${tld}.${name}.${group}`);
   }
 }
 
-// Clean up any duplicates in the typeToLexicons mapping and push it in the CSV file
-for (const type of Object.keys(typeToLexicons)) {
-  typeToLexicons[type] = [...new Set(typeToLexicons[type])];
+// Clean up any duplicates in the typeToCollections mapping and push it in the CSV file
+for (const type of Object.keys(typeToCollections)) {
+  typeToCollections[type] = [...new Set(typeToCollections[type])];
+  typeToNamespaces[type] = [...new Set(typeToNamespaces[type])];
   typeMappingContent.push(
-    `"${type}","${typeToLexicons[type].length}","${typeToLexicons[type].join(
-      ";"
-    )}"`
+    [
+      `"${type}"`,
+      `"${typeToCollections[type].length}"`,
+      `"${typeToNamespaces[type].length}"`,
+      `"${typeToCollections[type].join(";")}"`,
+      `"${typeToNamespaces[type].join(";")}"`,
+    ].join(",")
   );
 }
 
 await writeFile(
-  "./type-to-lexicons-mapping.csv",
+  "./data/type-to-collections-map.csv",
   typeMappingContent.join("\n"),
   "utf-8"
 );
-console.log("Type-to-lexicons mapping saved to type-to-lexicons-mapping.csv");
+console.log("Type-to-collections mapping saved to type-to-collections-map.csv");
 
 /**
- * Goes through through our records folder and aggregates data for each lexicon
+ * Goes through through our records folder and aggregates data for each collection
  * saved within it, keyed by collection.
  *
  * For each collection, it will create an object containing:
@@ -116,38 +146,34 @@ async function* getRecordsToAggregate(sourceFolder: string): AsyncGenerator<{
   record: Record<string, unknown>;
   recordFolder: string;
 }> {
-  const entries = await readdir(sourceFolder, { withFileTypes: true });
-  for (const entry of entries) {
-    if (entry.isDirectory()) {
-      const lexiconFolder = await readdir(`./records/${entry.name}/`, {
-        withFileTypes: true,
-      });
-
-      for (const file of lexiconFolder) {
-        if (file.isFile()) {
-          if (file.name === "index.json") {
-            // This is the summary file, so we skip it
-            continue;
-          }
-          const recordFileContent = await readFile(
-            `./records/${entry.name}/${file.name}`,
-            "utf-8"
-          );
-
-          const parsedRecordFile = JSON.parse(recordFileContent) as Record<
-            string,
-            unknown
-          >;
-          const collection = parsedRecordFile.collection as string;
-
-          yield {
-            collection,
-            record: parsedRecordFile.record as Record<string, unknown>,
-            recordFolder: `./records/${entry.name}`,
-          };
-        }
-      }
+  // Get all the collection folders
+  const entries = await glob(`${sourceFolder}/**/*.json`, {
+    withFileTypes: true,
+  });
+  for await (const entry of entries) {
+    const relativePath = path.relative(process.cwd(), entry.parentPath);
+    console.log(`Processing ${relativePath}/`);
+    if (entry.name === "index.json") {
+      // This is the summary file, so we skip it
+      continue;
     }
+    const recordFileContent = await readFile(
+      `./${relativePath}/${entry.name}`,
+      "utf-8"
+    );
+
+    const parsedRecordFile = JSON.parse(recordFileContent) as Record<
+      string,
+      unknown
+    >;
+    const collection = parsedRecordFile.collection as string;
+    console.log(`Collection: ${collection}`);
+
+    yield {
+      collection,
+      record: parsedRecordFile.record as Record<string, unknown>,
+      recordFolder: `./${relativePath}`,
+    };
   }
 }
 

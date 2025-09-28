@@ -1,0 +1,9816 @@
+[
+  {
+    "nsid": "a-------------------------------------------------------------0.0-------------------------------------------------------------0.0-------------------------------------------------------------0.0----------------------------------------------0.A",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.0-------------------------------------------------------------0.0-------------------------------------------------------------0.A0000000000000000000000000000000000000000000000000",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.0-------------------------------------------------------------0.0-------------------------------------------------------------0.a0000000000000000000000000000000000000000000000000",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.0.A",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.a-------------------------------------------------------------0.a-------------------------------------------------------------0.a0000000000000000000000000000000000000000000000000",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.a-------------------------------------------------------------0.a-------------------------------------------------------------0.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa0",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.keep.going",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0001-I.have.eaten",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0002-the.plums",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0003-that.were.in",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0004-the.icebox",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0005-and.which",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0006-you.were.probably",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0007-saving.ah",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0008-for.breakfast",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0009-Forgive.me",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0010-they.were.delicious",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0011-so.sweet",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------0.plums.0012-and.so.cold",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------a.a-------------------------------------------------------------a.a-------------------------------------------------------------a.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------a.a-------------------------------------------------------------a.a------------------------------------------------------------a.atprotoata",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------------------------------------------------------------a.check.out.atproto.at",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a------------------------------------------------------------a.shoutout.cobson",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a--------------------------------------a.a-a.shoutout.king.von",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-------a.check.out.at.wormhole.mosphere.at",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a------a.check.out.atproto.at",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-----a.i.was.here.earlier",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a----a.consider.this",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a---a.totallynotseth.dev.was.here",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a--a.new.kind.of.atprotocol.record.viewer.coming.soon",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-a.bb.cc.dd.ee.ff",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a-warm-welcome.to.my.pds",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.0.test",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.1.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.a.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.bookmark.on.my.pds",
+    "creates": 30,
+    "updates": 0,
+    "deletes": 23,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.guestbook.for.my.pds",
+    "creates": 33,
+    "updates": 1,
+    "deletes": 25,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "a.guestbook.i.signed",
+    "creates": 23,
+    "updates": 1,
+    "deletes": 8,
+    "dids_estimate": 11
+  },
+  {
+    "nsid": "a.guestbook.that.i.signed",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.index.hello",
+    "creates": 2,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.list.of.links.to.check.out",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.note.on.my.pds",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.status.actor.profile",
+    "creates": 2,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "a.status.update",
+    "creates": 766,
+    "updates": 17,
+    "deletes": 80,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "a.welcome.message",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.welcome.message.for.my.pds",
+    "creates": 32,
+    "updates": 1,
+    "deletes": 22,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "a.welcome.message.with.links",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 8,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a.welcome.message.with.links.to.check.out",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a0.00.weCanGoDeeper",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "a0.welcome.to.my.pds",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "aa.1.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "aaa.0.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "aaa.teste.legal",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.the.gooner",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.dont.touch.my.pizza",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ahoy.welcome.to.my.pds",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.card.box",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.hypgen.hypothesis",
+    "creates": 1553,
+    "updates": 0,
+    "deletes": 583,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ai.hypgen.reaction",
+    "creates": 48,
+    "updates": 0,
+    "deletes": 43,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "ai.hypgen.subgraph",
+    "creates": 995,
+    "updates": 0,
+    "deletes": 592,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ai.numinex.post",
+    "creates": 1232,
+    "updates": 0,
+    "deletes": 458,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "ai.numinex.v2.data.linkRecord",
+    "creates": 90,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ai.numinex.v2.data.post",
+    "creates": 1836,
+    "updates": 0,
+    "deletes": 52,
+    "dids_estimate": 27
+  },
+  {
+    "nsid": "ai.numinex.v2.data.prompt",
+    "creates": 23,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ai.numinex.v2.data.textFragment",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.game",
+    "creates": 8,
+    "updates": 216,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ai.syui.item",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.log",
+    "creates": 43,
+    "updates": 3,
+    "deletes": 40,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ai.syui.log.chat",
+    "creates": 125,
+    "updates": 1,
+    "deletes": 123,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.log.chat.comment",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 12,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.log.chat.lang",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 12,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.log.user",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.o.comment",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.o.post",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ai.syui.yui",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.annos.annotation",
+    "creates": 38,
+    "updates": 0,
+    "deletes": 11,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.annos.annotationField",
+    "creates": 54,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.annos.annotationTemplate",
+    "creates": 30,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.at-transfer.signalanswer",
+    "creates": 25,
+    "updates": 112,
+    "deletes": 25,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.at-transfer.signaloffer",
+    "creates": 33,
+    "updates": 81,
+    "deletes": 32,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.atmos.videos",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.atpaste.paste",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.atprotomkt.marketplace.listing",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.atsocial.group",
+    "creates": 3,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.atsocial.group.comment",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.atsocial.group.membership",
+    "creates": 13,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.atsocial.group.post",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.atsocial.page",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.atsocial.page.comment",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.atsocial.page.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.atyo.actor.profile",
+    "creates": 2,
+    "updates": 62,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.atyo.ping",
+    "creates": 33,
+    "updates": 0,
+    "deletes": 21,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.azsky.feed.longpost",
+    "creates": 16,
+    "updates": 3,
+    "deletes": 1,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "app.basker.links",
+    "creates": 12,
+    "updates": 114,
+    "deletes": 3,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.basker.notes",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.basker.settings",
+    "creates": 2,
+    "updates": 12,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.basker.stories",
+    "creates": 2,
+    "updates": 5,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.basker.widgets",
+    "creates": 17,
+    "updates": 119,
+    "deletes": 10,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bigmoves.feed.star",
+    "creates": 40,
+    "updates": 0,
+    "deletes": 40,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bigmoves.gallery",
+    "creates": 41,
+    "updates": 143,
+    "deletes": 39,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.bigmoves.profile",
+    "creates": 6,
+    "updates": 20,
+    "deletes": 6,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bikesky.communityBot.commandPrompt",
+    "creates": 283,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.bksy.graph.listitem",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.blah.blah.blah",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.blog.post",
+    "creates": 11,
+    "updates": 34,
+    "deletes": 26,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.blog.postOrder",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bluvy.favorites",
+    "creates": 0,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.boshi.feed.post",
+    "creates": 19,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.actor",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.actor.favoriteToken",
+    "creates": 21,
+    "updates": 73,
+    "deletes": 17,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.bsky.actor.preferences",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.actor.profile",
+    "creates": 4417995,
+    "updates": 13524281,
+    "deletes": 61,
+    "dids_estimate": 6485269
+  },
+  {
+    "nsid": "app.bsky.actor.status",
+    "creates": 3176,
+    "updates": 344242,
+    "deletes": 2952,
+    "dids_estimate": 564
+  },
+  {
+    "nsid": "app.bsky.bookmark",
+    "creates": 4,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.bookmark.createBookmark",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.bookmark.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.cafetownsquare.order",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.convo.message",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.dm.conversation",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.dm.message",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.favorite.token",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.block",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.bookmark",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.bsky.feed.comment",
+    "creates": 73,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.bsky.feed.defs",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.deleteLike",
+    "creates": 18,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.feed.dislike",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.feed.follow",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.generator",
+    "creates": 24997,
+    "updates": 158847,
+    "deletes": 12854,
+    "dids_estimate": 10853
+  },
+  {
+    "nsid": "app.bsky.feed.like",
+    "creates": 3866032402,
+    "updates": 3,
+    "deletes": 77804283,
+    "dids_estimate": 8662546
+  },
+  {
+    "nsid": "app.bsky.feed.like.delete",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.mdpost",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.pin",
+    "creates": 6,
+    "updates": 20,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "app.bsky.feed.post",
+    "creates": 679640209,
+    "updates": 283872,
+    "deletes": 41181431,
+    "dids_estimate": 5610035
+  },
+  {
+    "nsid": "app.bsky.feed.post.jerry",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.post.shit",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.postSettings",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.postgate",
+    "creates": 8799863,
+    "updates": 37982,
+    "deletes": 2276,
+    "dids_estimate": 116578
+  },
+  {
+    "nsid": "app.bsky.feed.postss",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.repost",
+    "creates": 594068967,
+    "updates": 0,
+    "deletes": 24637810,
+    "dids_estimate": 3793869
+  },
+  {
+    "nsid": "app.bsky.feed.saved",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.settings",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.submission",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.feed.superlike",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.test",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.threadgate",
+    "creates": 20294463,
+    "updates": 206948,
+    "deletes": 4654,
+    "dids_estimate": 248252
+  },
+  {
+    "nsid": "app.bsky.feed.unlike",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.feed.video",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.feed.watch",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.graph.block",
+    "creates": 49271841,
+    "updates": 5,
+    "deletes": 2034245,
+    "dids_estimate": 2028103
+  },
+  {
+    "nsid": "app.bsky.graph.cancellation",
+    "creates": 5335,
+    "updates": 2,
+    "deletes": 831,
+    "dids_estimate": 134
+  },
+  {
+    "nsid": "app.bsky.graph.chat.message",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "app.bsky.graph.follow",
+    "creates": 586622186,
+    "updates": 1,
+    "deletes": 97269810,
+    "dids_estimate": 11283762
+  },
+  {
+    "nsid": "app.bsky.graph.fuck",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.graph.list",
+    "creates": 289447,
+    "updates": 70951,
+    "deletes": 49834,
+    "dids_estimate": 112737
+  },
+  {
+    "nsid": "app.bsky.graph.list.item",
+    "creates": 32,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.graph.listblock",
+    "creates": 236466,
+    "updates": 0,
+    "deletes": 75163,
+    "dids_estimate": 93483
+  },
+  {
+    "nsid": "app.bsky.graph.listitem",
+    "creates": 12517325,
+    "updates": 55563,
+    "deletes": 2120332,
+    "dids_estimate": 170895
+  },
+  {
+    "nsid": "app.bsky.graph.mute",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.graph.schema",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.graph.starterpack",
+    "creates": 39582,
+    "updates": 123579,
+    "deletes": 10735,
+    "dids_estimate": 39046
+  },
+  {
+    "nsid": "app.bsky.graph.unfollow",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.graph.verification",
+    "creates": 101105,
+    "updates": 2598,
+    "deletes": 9006,
+    "dids_estimate": 1111
+  },
+  {
+    "nsid": "app.bsky.graph.verification.create",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.impro.managedList",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.bsky.jerry.no",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.label",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.labeler.label",
+    "creates": 45,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.labeler.service",
+    "creates": 2481,
+    "updates": 3243,
+    "deletes": 2366,
+    "dids_estimate": 191
+  },
+  {
+    "nsid": "app.bsky.notification.declaration",
+    "creates": 75169,
+    "updates": 17496,
+    "deletes": 2,
+    "dids_estimate": 75698
+  },
+  {
+    "nsid": "app.bsky.reaction.like",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.repo.record",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.saved",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.system.lexicon",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.test.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.tictactoe",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bsky.tictactoe.game",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 45,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bskygold.actor.meta",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.bskymark.bookmark",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.custom.beeschurger",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.custom.lolol",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.data.collection",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.deepl.profile",
+    "creates": 9,
+    "updates": 63,
+    "deletes": 0,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "app.dekoboko.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.dekoboko.quest.participation",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.dropanchor.checkin",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "app.echosky.board.info",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.echosky.board.post",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.echosky.board.reaction",
+    "creates": 8,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.echosky.board.thread",
+    "creates": 6,
+    "updates": 4,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.eg.status",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.eloge.feed.entry",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.eny.feed.interests",
+    "creates": 40,
+    "updates": 358,
+    "deletes": 31,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.eny.feed.views",
+    "creates": 7,
+    "updates": 142,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.eny.interests",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.example.arbitrary",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.flashes.feed.post",
+    "creates": 21,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.fooodz.review",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.gainforest.community",
+    "creates": 8,
+    "updates": 4,
+    "deletes": 6,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.gainforest.organization.defaultSite",
+    "creates": 69,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 69
+  },
+  {
+    "nsid": "app.gainforest.organization.info",
+    "creates": 81,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 81
+  },
+  {
+    "nsid": "app.gainforest.organization.links",
+    "creates": 78,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 78
+  },
+  {
+    "nsid": "app.gainforest.organization.metrics",
+    "creates": 78,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 78
+  },
+  {
+    "nsid": "app.gainforest.organization.registry",
+    "creates": 78,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 78
+  },
+  {
+    "nsid": "app.gainforest.organization.tags",
+    "creates": 78,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 78
+  },
+  {
+    "nsid": "app.gainforest.profile",
+    "creates": 2,
+    "updates": 27,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.gainforest.status",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.gather.comment",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.gather.event",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.gather.group",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.gather.groupMembership",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.gather.rsvp",
+    "creates": 2,
+    "updates": 6,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.gridsky.draft",
+    "creates": 90,
+    "updates": 99,
+    "deletes": 75,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "app.gridsky.grid",
+    "creates": 107,
+    "updates": 198,
+    "deletes": 76,
+    "dids_estimate": 33
+  },
+  {
+    "nsid": "app.gridsky.preferences",
+    "creates": 43,
+    "updates": 939,
+    "deletes": 0,
+    "dids_estimate": 44
+  },
+  {
+    "nsid": "app.group.meta",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.group.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.honks.feed.honk",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.hyper-limit.bookmark",
+    "creates": 98,
+    "updates": 99,
+    "deletes": 123,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.hyper-limit.bookmark.list",
+    "creates": 2,
+    "updates": 6,
+    "deletes": 6,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.juttu.blogpost",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.knira.actor.profile",
+    "creates": 0,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.koda.feed.blog",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.koda.feed.like",
+    "creates": 324,
+    "updates": 0,
+    "deletes": 101,
+    "dids_estimate": 15
+  },
+  {
+    "nsid": "app.koda.feed.post",
+    "creates": 96,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 19
+  },
+  {
+    "nsid": "app.koda.feed.post.reply",
+    "creates": 73,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "app.koda.feed.replyvote",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.koda.feed.repost",
+    "creates": 39,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.koda.graph.follow",
+    "creates": 13,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "app.kollective.catalog",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.kollective.follow",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.kollective.image",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.kollective.profile",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.kollective.settings",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.lele.flight",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.linkbio.link",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.linkbio.links",
+    "creates": 1,
+    "updates": 4,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.linkbio.notes",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.linkbio.profileCustomization",
+    "creates": 1,
+    "updates": 15,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.linkbio.profileNote",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.linkbio.settings",
+    "creates": 1,
+    "updates": 5,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.linkbio.stories",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.lofisky.library.content",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.lofisky.pss",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.mcp.server",
+    "creates": 0,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.mnk.message",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.musicscrobbler.scrobble",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.myclient.bookmark",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.navyfragen.message",
+    "creates": 147,
+    "updates": 0,
+    "deletes": 95,
+    "dids_estimate": 21
+  },
+  {
+    "nsid": "app.navyfragen.status",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.netlify.aniblue.status",
+    "creates": 1,
+    "updates": 511,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.ngrok-free.4541-2a02-6b67-d942-e300-d453-2fcf-ea9f-1051.entry",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ngrok-free.4541-2a02-6b67-d942-e300-d453-2fcf-ea9f-1051.indexUrl",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ngrok-free.4907-185-199-103-242.entry",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ngrok-free.80e2fdb7900c.entry",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ngrok-free.bf9f-2a02-6b67-d942-e300-d453-2fcf-ea9f-1051.entry",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ngrok-free.bf9f-2a02-6b67-d942-e300-d453-2fcf-ea9f-1051.indexUrl",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ngrok-free.f217-185-199-103-138.entry",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ngrok-free.f217-185-199-103-138.indexUrl",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ocho.edu.verification",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ocho.graph.state",
+    "creates": 4,
+    "updates": 2,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ocho.payment.intent",
+    "creates": 18,
+    "updates": 0,
+    "deletes": 14,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ocho.plugin.assets",
+    "creates": 11,
+    "updates": 158,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "app.ocho.plugin.code",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.ocho.plugin.manifest",
+    "creates": 13,
+    "updates": 300,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "app.ocho.plugin.service",
+    "creates": 12,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 11
+  },
+  {
+    "nsid": "app.ocho.state.id",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 11,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.ocho.status",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.offprint.beta.publication",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.offprint.experimental.media",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.page.profile",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.popfeed.note",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.popsky.comment",
+    "creates": 91,
+    "updates": 0,
+    "deletes": 67,
+    "dids_estimate": 28
+  },
+  {
+    "nsid": "app.popsky.creativeWorkLike",
+    "creates": 213,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.popsky.like",
+    "creates": 355,
+    "updates": 0,
+    "deletes": 330,
+    "dids_estimate": 73
+  },
+  {
+    "nsid": "app.popsky.list",
+    "creates": 588,
+    "updates": 360,
+    "deletes": 361,
+    "dids_estimate": 176
+  },
+  {
+    "nsid": "app.popsky.listItem",
+    "creates": 13489,
+    "updates": 353,
+    "deletes": 8696,
+    "dids_estimate": 179
+  },
+  {
+    "nsid": "app.popsky.post",
+    "creates": 34,
+    "updates": 0,
+    "deletes": 27,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "app.popsky.profile",
+    "creates": 197,
+    "updates": 111,
+    "deletes": 67,
+    "dids_estimate": 194
+  },
+  {
+    "nsid": "app.popsky.review",
+    "creates": 5969,
+    "updates": 204,
+    "deletes": 3808,
+    "dids_estimate": 132
+  },
+  {
+    "nsid": "app.protoboard.board",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.protoboard.item",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.pst.player",
+    "creates": 2,
+    "updates": 482,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.pst.structures",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.purplespace.actor.profile",
+    "creates": 4,
+    "updates": 6,
+    "deletes": 1,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.purplespace.feed.generator",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.purplespace.feed.like",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.purplespace.feed.post",
+    "creates": 33,
+    "updates": 0,
+    "deletes": 10,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.purplespace.feed.repost",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.purplespace.graph.block",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.purplespace.graph.follow",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.raddle.community",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.raddle.communityMember",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.rem.actor.connection",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.remblue.actor.account",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.rocksky.album",
+    "creates": 11184,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 55
+  },
+  {
+    "nsid": "app.rocksky.artist",
+    "creates": 7252,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 55
+  },
+  {
+    "nsid": "app.rocksky.like",
+    "creates": 1225,
+    "updates": 0,
+    "deletes": 15,
+    "dids_estimate": 13
+  },
+  {
+    "nsid": "app.rocksky.scrobble",
+    "creates": 43472,
+    "updates": 13,
+    "deletes": 6,
+    "dids_estimate": 55
+  },
+  {
+    "nsid": "app.rocksky.shout",
+    "creates": 18,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 11
+  },
+  {
+    "nsid": "app.rocksky.song",
+    "creates": 59858,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 55
+  },
+  {
+    "nsid": "app.rot.feed.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.rout.gameResults",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.scout.site",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.shadowsky.preferences",
+    "creates": 56,
+    "updates": 19,
+    "deletes": 0,
+    "dids_estimate": 56
+  },
+  {
+    "nsid": "app.skeetmoji.collection.item",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.skyart.album",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 6,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.skyart.albumPost",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.skyart.comment",
+    "creates": 17,
+    "updates": 0,
+    "deletes": 11,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "app.skyart.follow",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.skyart.like",
+    "creates": 23,
+    "updates": 0,
+    "deletes": 17,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "app.skyart.post",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 12,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "app.skyart.preferences",
+    "creates": 18,
+    "updates": 78,
+    "deletes": 16,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "app.skytube.graph.favorite",
+    "creates": 93,
+    "updates": 0,
+    "deletes": 16,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "app.skytube.profile",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.skytube.video.save",
+    "creates": 66,
+    "updates": 13,
+    "deletes": 10,
+    "dids_estimate": 31
+  },
+  {
+    "nsid": "app.skywatched.settings",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "app.social.post.plus",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.sonasky.ref",
+    "creates": 460,
+    "updates": 679,
+    "deletes": 89,
+    "dids_estimate": 373
+  },
+  {
+    "nsid": "app.sprk.crypto.pubKey",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.sprk.feed.privatePost",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.sussurro.friendKey",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.sussurro.keys",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.sussurro.post",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.tcg.card",
+    "creates": 45,
+    "updates": 0,
+    "deletes": 42,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.thereandthen.friendSet",
+    "creates": 12,
+    "updates": 40,
+    "deletes": 6,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.truanon.label",
+    "creates": 161,
+    "updates": 147,
+    "deletes": 157,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "app.truanon.prefs",
+    "creates": 6,
+    "updates": 456,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "app.vercel.content-archive.entry",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.vercel.content-archive.indexUrl",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.vercel.dekoboko.post",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.vercel.dekoboko.quest",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.vidsky.comment",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.weather.record",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1388,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.winesky.feed.scan",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.winesky.wineScan",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.yoou.comment",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.yoou.commentReceived",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.yoou.follow",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.yoou.like",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.yoou.likeReceived",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.yoou.post",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "app.yoten.activity.def",
+    "creates": 52,
+    "updates": 27,
+    "deletes": 34,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "app.yoten.actor.profile",
+    "creates": 35,
+    "updates": 183,
+    "deletes": 1,
+    "dids_estimate": 35
+  },
+  {
+    "nsid": "app.yoten.feed.comment",
+    "creates": 36,
+    "updates": 5,
+    "deletes": 32,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "app.yoten.feed.reaction",
+    "creates": 122,
+    "updates": 0,
+    "deletes": 48,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "app.yoten.feed.resource",
+    "creates": 24,
+    "updates": 9,
+    "deletes": 3,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "app.yoten.feed.session",
+    "creates": 368,
+    "updates": 196,
+    "deletes": 87,
+    "dids_estimate": 12
+  },
+  {
+    "nsid": "app.yoten.graph.follow",
+    "creates": 60,
+    "updates": 0,
+    "deletes": 37,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "ar.cabildoabierto.actor.caProfile",
+    "creates": 73,
+    "updates": 27,
+    "deletes": 2,
+    "dids_estimate": 73
+  },
+  {
+    "nsid": "ar.cabildoabierto.article",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ar.cabildoabierto.data.dataset",
+    "creates": 30,
+    "updates": 0,
+    "deletes": 12,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ar.cabildoabierto.feed.article",
+    "creates": 193,
+    "updates": 6,
+    "deletes": 117,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "ar.cabildoabierto.wiki.topicVersion",
+    "creates": 21459,
+    "updates": 0,
+    "deletes": 10974,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "ar.cabildoabierto.wiki.vote",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ar.cabildoabierto.wiki.voteAccept",
+    "creates": 40,
+    "updates": 0,
+    "deletes": 26,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ar.cabildoabierto.wiki.voteReject",
+    "creates": 20,
+    "updates": 0,
+    "deletes": 16,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ar.com.cabildoabierto.article",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ar.com.cabildoabierto.dataset",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 15,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ar.com.cabildoabierto.enDiscusion",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ar.com.cabildoabierto.profile",
+    "creates": 2,
+    "updates": 16,
+    "deletes": 3,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "ar.com.cabildoabierto.quotePost",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ar.com.cabildoabierto.topic",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 5103,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ar.com.cabildoabierto.topic.vote",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "art.spacebread.easteregg",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "at.atproto.actor.profile",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "at.atproto.supporter.badge",
+    "creates": 13,
+    "updates": 1,
+    "deletes": 8,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "at.atsms.x509",
+    "creates": 14,
+    "updates": 4,
+    "deletes": 6,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "at.noted.link",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "atbooru.dragon.gal.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "beauty.cybernetic.trustcow.transaction",
+    "creates": 30,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "beauty.piss.blog.entry",
+    "creates": 5,
+    "updates": 6,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "beauty.piss.blog.index",
+    "creates": 0,
+    "updates": 10,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "best.akizuki.blahglegacy.post",
+    "creates": 3,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blob.bob.blob",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blog.pckt.blog",
+    "creates": 116,
+    "updates": 653,
+    "deletes": 117,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blog.pckt.post",
+    "creates": 1422,
+    "updates": 487,
+    "deletes": 1370,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blog.pckt.publication",
+    "creates": 276,
+    "updates": 707,
+    "deletes": 262,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blog.pckt.theme",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blog.vortext.entry",
+    "creates": 4,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.2048.game",
+    "creates": 7093,
+    "updates": 6,
+    "deletes": 103,
+    "dids_estimate": 239
+  },
+  {
+    "nsid": "blue.2048.player.profile",
+    "creates": 289,
+    "updates": 0,
+    "deletes": 13,
+    "dids_estimate": 284
+  },
+  {
+    "nsid": "blue.2048.player.stats",
+    "creates": 285,
+    "updates": 7062,
+    "deletes": 10,
+    "dids_estimate": 284
+  },
+  {
+    "nsid": "blue.atoybox.item",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.atplane.favClient",
+    "creates": 2,
+    "updates": 13,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blue.badge.collection",
+    "creates": 199,
+    "updates": 0,
+    "deletes": 20,
+    "dids_estimate": 47
+  },
+  {
+    "nsid": "blue.cerulea.video.video",
+    "creates": 5,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.000.shoutout",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.001.my",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.002.bro",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.003.twennyone",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.004.savage",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.005.weiland",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.006.adamn",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.007.killa",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.008.james",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.009.ferraro",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.cred.010.and.my.hoes",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.donos.payment.crypto",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.feeds.hashtag.follow",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 8,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "blue.flashes.actor.mediaFilter",
+    "creates": 121,
+    "updates": 0,
+    "deletes": 46,
+    "dids_estimate": 44
+  },
+  {
+    "nsid": "blue.flashes.actor.portfolio",
+    "creates": 27009,
+    "updates": 0,
+    "deletes": 9008,
+    "dids_estimate": 1349
+  },
+  {
+    "nsid": "blue.flashes.actor.profile",
+    "creates": 9090,
+    "updates": 10094,
+    "deletes": 6,
+    "dids_estimate": 10780
+  },
+  {
+    "nsid": "blue.flashes.feed.post",
+    "creates": 135816,
+    "updates": 0,
+    "deletes": 2320,
+    "dids_estimate": 10395
+  },
+  {
+    "nsid": "blue.imgs.blup.image",
+    "creates": 59,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blue.linkat.board",
+    "creates": 94,
+    "updates": 483,
+    "deletes": 15,
+    "dids_estimate": 162
+  },
+  {
+    "nsid": "blue.linkat.test.board",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.moji.collection.item",
+    "creates": 29,
+    "updates": 66,
+    "deletes": 23,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blue.pfp.unmodifiedPfp",
+    "creates": 2,
+    "updates": 8,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blue.place.pixel",
+    "creates": 185,
+    "updates": 0,
+    "deletes": 60,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "blue.protopro.actor.profile",
+    "creates": 20,
+    "updates": 240,
+    "deletes": 0,
+    "dids_estimate": 19
+  },
+  {
+    "nsid": "blue.protopro.job",
+    "creates": 3,
+    "updates": 1,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blue.protopro.org.member",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blue.q-p.network.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "blue.rito.feed.bookmark",
+    "creates": 623,
+    "updates": 299,
+    "deletes": 128,
+    "dids_estimate": 74
+  },
+  {
+    "nsid": "blue.rito.feed.like",
+    "creates": 98,
+    "updates": 0,
+    "deletes": 97,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "blue.rito.service.schema",
+    "creates": 30,
+    "updates": 56,
+    "deletes": 12,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "blue.skymap.geo.feature",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 2129,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "blue.skymap.geo.feature.tag",
+    "creates": 47,
+    "updates": 5,
+    "deletes": 19,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "blue.skymap.geo.map",
+    "creates": 53,
+    "updates": 8,
+    "deletes": 26,
+    "dids_estimate": 22
+  },
+  {
+    "nsid": "blue.snippet.code",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.snippet.code.snippet",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.subs.channels",
+    "creates": 31,
+    "updates": 1,
+    "deletes": 28,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "blue.subs.channels.channel",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.subs.subscribe",
+    "creates": 16,
+    "updates": 4,
+    "deletes": 8,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "blue.tape.tape",
+    "creates": 0,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.zio.atfile.upload",
+    "creates": 63,
+    "updates": 2,
+    "deletes": 28,
+    "dids_estimate": 19
+  },
+  {
+    "nsid": "blue.zio.bsky2tg.alias",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "blue.zio.bsky2tg.post",
+    "creates": 128,
+    "updates": 2,
+    "deletes": 88,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "bsky.app.bookmark.bookmark",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "bsky.app.bsky.feed.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "business.snep.fursona",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "business.snep.mood",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "buzz.bookhive.book",
+    "creates": 22201,
+    "updates": 2543,
+    "deletes": 905,
+    "dids_estimate": 140
+  },
+  {
+    "nsid": "buzz.bookhive.buzz",
+    "creates": 6,
+    "updates": 1,
+    "deletes": 4,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "cat.kasey.moe.meow",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "chat.bsky.actor.declaration",
+    "creates": 182341,
+    "updates": 78848,
+    "deletes": 11,
+    "dids_estimate": 202428
+  },
+  {
+    "nsid": "chat.flock.experimental.customview",
+    "creates": 24,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "chat.flock.experimental.message",
+    "creates": 593,
+    "updates": 20,
+    "deletes": 16,
+    "dids_estimate": 11
+  },
+  {
+    "nsid": "chat.roomy.01JPNX7AA9BSM6TY2GWW1TR5V7.catalog",
+    "creates": 280,
+    "updates": 0,
+    "deletes": 15,
+    "dids_estimate": 282
+  },
+  {
+    "nsid": "chat.roomy.jazz.catalog",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 8,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "chat.roomy.profile",
+    "creates": 253,
+    "updates": 0,
+    "deletes": 16,
+    "dids_estimate": 221
+  },
+  {
+    "nsid": "chat.roomy.v0.images",
+    "creates": 908,
+    "updates": 9,
+    "deletes": 16,
+    "dids_estimate": 108
+  },
+  {
+    "nsid": "chat.roomy.v0.store",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "chat.roomy.v0.videoEmbeds",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "chat.roomy.v0.videos",
+    "creates": 88,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "chat.roomy.v1.store",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "chat.rubyrooms.comment",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "click.tny.attny.image",
+    "creates": 43,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "client.app.bsky.feed.post",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "cloud.blueskryb.book",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "cloud.soundsky.audio",
+    "creates": 38,
+    "updates": 51,
+    "deletes": 14,
+    "dids_estimate": 14
+  },
+  {
+    "nsid": "cloud.soundsky.audio.social",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "club.feeed.submission",
+    "creates": 169,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 31
+  },
+  {
+    "nsid": "club.stellz.evm.address",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.stellz.evm.addressControl",
+    "creates": 76,
+    "updates": 8,
+    "deletes": 21,
+    "dids_estimate": 45
+  },
+  {
+    "nsid": "club.stellz.evm.currency",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.stellz.lexicon.evm.address",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.stellz.lexicon.evm.transactionHash",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.stellz.lexicon.store.purchaseConfirmation",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.stellz.lexicon.store.purchaseIntent",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.stellz.lexicon.store.purchaseType",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.stellz.lexiconDraft",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "club.symbio.urls",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "co.ypak.crypt.publickey",
+    "creates": 4,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "codes.advent.challenge.day",
+    "creates": 4,
+    "updates": 7,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "coffee.outof.beanPost",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.alephcubed.starmark.review",
+    "creates": 29,
+    "updates": 13,
+    "deletes": 18,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.atprofile.beta.profile",
+    "creates": 6,
+    "updates": 28,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "com.atproto.channel.def",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.atproto.label.defs",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.atproto.label.label",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.atproto.lexicon.schema",
+    "creates": 400,
+    "updates": 201,
+    "deletes": 127,
+    "dids_estimate": 54
+  },
+  {
+    "nsid": "com.atproto.lexicons",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.atproto.like",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.atproto.message.def",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.atproto.repo",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.atproto.repo.follow",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.atweet.twit",
+    "creates": 24,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.bad-example.hello",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.bad-example.hello.world",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.basker.stories",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.bazaarvoice.review",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 6,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.bazaarvoice.reviews",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.bibliome.book",
+    "creates": 444,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 85
+  },
+  {
+    "nsid": "com.bibliome.bookshelf",
+    "creates": 139,
+    "updates": 6,
+    "deletes": 11,
+    "dids_estimate": 96
+  },
+  {
+    "nsid": "com.bibliome.comment",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.blonk.blip",
+    "creates": 87,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.blonk.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.blonk.vibe",
+    "creates": 18,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.blonk.vibeMember",
+    "creates": 16,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.bsky-art-platform.art",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.chatapp.server.profile",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.cityboundforest.blog",
+    "creates": 16,
+    "updates": 16,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.concord.chat.message",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.crabdance.nandi.post",
+    "creates": 5,
+    "updates": 11,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.dtm.handle.provision",
+    "creates": 22,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.dtm.handle.request",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.atpub.activity",
+    "creates": 34,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.atpub.activity.create",
+    "creates": 25,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.atpub.actor",
+    "creates": 1,
+    "updates": 6,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.atpub.object",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.atpwg.invites",
+    "creates": 92,
+    "updates": 47,
+    "deletes": 92,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.example.atpwg.publicKey",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.example.blobtest",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.crypto.pubKey",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.feed.post",
+    "creates": 7,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.example.flightlog.flightEntry",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.foo.bar",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.ft.forum.definition",
+    "creates": 6,
+    "updates": 5,
+    "deletes": 4,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.example.ft.topic.post",
+    "creates": 37,
+    "updates": 1,
+    "deletes": 12,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "com.example.ft.topic.reaction",
+    "creates": 16,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "com.example.ft.user.profile",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.graph.collection",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.graph.collectionitem",
+    "creates": 12,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.lexicons",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.marketplace.listing",
+    "creates": 29,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.mview",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.record",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.status",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.test",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "com.example.test.esav",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.test.lexicon",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.example.todo",
+    "creates": 5,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.fadeecho.loggedIn",
+    "creates": 43,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.fadeecho.status",
+    "creates": 776,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.flash.board",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.fujocoded.guestbook.book",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.fujocoded.guestbook.gate",
+    "creates": 3,
+    "updates": 20,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.fujocoded.guestbook.submission",
+    "creates": 50,
+    "updates": 0,
+    "deletes": 20,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.gainforest.testing.something",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.gemmy.actor.favoriteToken",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.gemmy.favorite.token",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.germnetwork.keypackage",
+    "creates": 236,
+    "updates": 1176,
+    "deletes": 148,
+    "dids_estimate": 92
+  },
+  {
+    "nsid": "com.gitlogger.git.log",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.gnuterrypratchett.clacksoverhead",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.habitat.docs",
+    "creates": 4,
+    "updates": 11,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.hukoubook.ebtp.gate",
+    "creates": 0,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.hypercert.impactclaim",
+    "creates": 5,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.hypercert.walletAttestationTest",
+    "creates": 1,
+    "updates": 13,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.hypercert.walletPasskeyTest",
+    "creates": 1,
+    "updates": 10,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.imlunahey.pdf",
+    "creates": 78,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 43
+  },
+  {
+    "nsid": "com.inkreaders.article.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.inkreaders.book.post",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.inkreaders.exercise.post",
+    "creates": 38,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.lfs-pds.host",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.lfs-pds.pointer",
+    "creates": 21,
+    "updates": 28,
+    "deletes": 18,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.limeleaf.fountain.doc",
+    "creates": 19,
+    "updates": 266,
+    "deletes": 19,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.limeleaf.tap.doc",
+    "creates": 1,
+    "updates": 10,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.lukeacl.bot.animal.assignment",
+    "creates": 19,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.lukeacl.development.blobs",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.macroblog.blog.post",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.manikineko.message",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.marketplace.listing",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.myeventapp.events.event",
+    "creates": 2,
+    "updates": 8,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.mygame.action",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.newdin.chap",
+    "creates": 26,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.newdin.read.thread",
+    "creates": 17,
+    "updates": 19,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.newdin.story",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.newdin.storyline",
+    "creates": 1,
+    "updates": 31,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.omni-index.comment",
+    "creates": 54,
+    "updates": 0,
+    "deletes": 44,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "com.omni-index.comment.like",
+    "creates": 42,
+    "updates": 0,
+    "deletes": 12,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "com.protruth.app.feed.post",
+    "creates": 36,
+    "updates": 0,
+    "deletes": 36,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.protruth.feed.post",
+    "creates": 228,
+    "updates": 15,
+    "deletes": 17,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "com.protruth.feed.postLink",
+    "creates": 61,
+    "updates": 0,
+    "deletes": 10,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "com.puklipo.statusphere.status",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.r74n.at.entity",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.r74n.at.idscheme",
+    "creates": 7,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.r74n.at.one",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.redhat.grub.menu.entry",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.retrobrand.photo",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.ruthub.entry",
+    "creates": 7,
+    "updates": 7,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "com.ruthub.item",
+    "creates": 327,
+    "updates": 109,
+    "deletes": 0,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "com.ruthub.item.reviews",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.ruthub.kanban",
+    "creates": 10,
+    "updates": 196,
+    "deletes": 0,
+    "dids_estimate": 12
+  },
+  {
+    "nsid": "com.ruthub.kanbans",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "com.ruthub.track",
+    "creates": 133,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "com.scorecard.event",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.scorecard.rating",
+    "creates": 29,
+    "updates": 0,
+    "deletes": 23,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.shadowsky.bookmark",
+    "creates": 31,
+    "updates": 0,
+    "deletes": 28,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.shadowsky.bookmarks",
+    "creates": 2,
+    "updates": 15,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.shadowsky.column",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.shadowsky.columns",
+    "creates": 6,
+    "updates": 721,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "com.shadowsky.draft",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.shadowsky.preferences",
+    "creates": 46,
+    "updates": 249,
+    "deletes": 0,
+    "dids_estimate": 46
+  },
+  {
+    "nsid": "com.shinolabs.pinksea.oekaki",
+    "creates": 551,
+    "updates": 1,
+    "deletes": 48,
+    "dids_estimate": 187
+  },
+  {
+    "nsid": "com.shinolabs.pinksea.preferences",
+    "creates": 2,
+    "updates": 11,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.shinolabs.pinksea.profile",
+    "creates": 68,
+    "updates": 50,
+    "deletes": 4,
+    "dids_estimate": 64
+  },
+  {
+    "nsid": "com.skybemoreblue.intro.introduction",
+    "creates": 622,
+    "updates": 341,
+    "deletes": 24,
+    "dids_estimate": 110
+  },
+  {
+    "nsid": "com.skybemoreblue.intro.rejection",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "com.skybemoreblue.intro.request",
+    "creates": 8,
+    "updates": 5,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "com.skybemoreblue.social.intro.rejection",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.socialapp.status",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.sparkclips.videoPointer",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.stroam.feed.like",
+    "creates": 290,
+    "updates": 0,
+    "deletes": 173,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.stroam.feed.post",
+    "creates": 374,
+    "updates": 24,
+    "deletes": 62,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "com.stroam.feed.repost",
+    "creates": 25,
+    "updates": 0,
+    "deletes": 11,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.auth.mxid",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.initiatives.comment",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.thinkhubtest.initiatives.initiative",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.initiatives.settings",
+    "creates": 1,
+    "updates": 6,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.initiatives.task",
+    "creates": 4,
+    "updates": 20,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "com.thinkhubtest.projects.project",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.projects.task",
+    "creates": 3,
+    "updates": 14,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.threads.comment",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.threads.downvote",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.threads.post",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.threads.private",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.threads.privateComment",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.threads.upvote",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.threads.vault",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.thinkhubtest.userKeys",
+    "creates": 8,
+    "updates": 7,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.twitter.feed.tweet",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.vwousu.feed.generator",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.vwousu.feed.post",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.wamellow.bridge.discord",
+    "creates": 152,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 150
+  },
+  {
+    "nsid": "com.website.hosted",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.welistskyblue.list.all",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.welistskyblue.list.collection",
+    "creates": 18,
+    "updates": 468,
+    "deletes": 0,
+    "dids_estimate": 18
+  },
+  {
+    "nsid": "com.welistskyblue.list.comment",
+    "creates": 105,
+    "updates": 0,
+    "deletes": 20,
+    "dids_estimate": 12
+  },
+  {
+    "nsid": "com.welistskyblue.list.congrats",
+    "creates": 123,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "com.welistskyblue.list.item",
+    "creates": 207,
+    "updates": 332,
+    "deletes": 47,
+    "dids_estimate": 14
+  },
+  {
+    "nsid": "com.welistskyblue.list.like",
+    "creates": 224,
+    "updates": 19,
+    "deletes": 0,
+    "dids_estimate": 11
+  },
+  {
+    "nsid": "com.whitewind.blog.entry",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.whtwnd.blog.entry",
+    "creates": 2198,
+    "updates": 27828,
+    "deletes": 357,
+    "dids_estimate": 301
+  },
+  {
+    "nsid": "com.wowpowchow.post",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.xherocv.actor.profile",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "com.xherocv.feed.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.atprotocol.geomarker.marker",
+    "creates": 56,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "community.graph.follow",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.atpublish.mdpost",
+    "creates": 31,
+    "updates": 0,
+    "deletes": 20,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "community.lexicon.badge.award",
+    "creates": 98,
+    "updates": 11,
+    "deletes": 57,
+    "dids_estimate": 24
+  },
+  {
+    "nsid": "community.lexicon.badge.definition",
+    "creates": 4,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.bookmark",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "community.lexicon.bookmarks.bookmark",
+    "creates": 348,
+    "updates": 7,
+    "deletes": 232,
+    "dids_estimate": 37
+  },
+  {
+    "nsid": "community.lexicon.calendar.comment",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.calendar.event",
+    "creates": 1139,
+    "updates": 81,
+    "deletes": 81,
+    "dids_estimate": 48
+  },
+  {
+    "nsid": "community.lexicon.calendar.rsvp",
+    "creates": 659,
+    "updates": 149,
+    "deletes": 0,
+    "dids_estimate": 314
+  },
+  {
+    "nsid": "community.lexicon.calendar.rsvp.local",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.interaction.like",
+    "creates": 12,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "community.lexicon.lexicons",
+    "creates": 9,
+    "updates": 17,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.lexicons.history",
+    "creates": 17,
+    "updates": 0,
+    "deletes": 17,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.location.address",
+    "creates": 45,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "community.lexicon.location.address.history",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.location.fsq",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.location.fsq.history",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.location.geo",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.location.geo.history",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.location.hthree",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.location.hthree.history",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "community.lexicon.reviews.review",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "coom.to.femboy.porn",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "cum.bsky.actor.declaration",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "de.oersphere.resource",
+    "creates": 83,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.alternatebuild.counter",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 12,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.aran.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.at-studio.test.xrpc.collection",
+    "creates": 10,
+    "updates": 5,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.at-studio.test.xrpc.request",
+    "creates": 21,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.atcities.route",
+    "creates": 4,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.dev",
+    "creates": 7,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.health.calories",
+    "creates": 35,
+    "updates": 29,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.health.rings",
+    "creates": 63,
+    "updates": 52,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.health.steps",
+    "creates": 94,
+    "updates": 86,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.health.workout",
+    "creates": 92,
+    "updates": 66,
+    "deletes": 40,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.retrospective.day",
+    "creates": 22,
+    "updates": 17,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.steps",
+    "creates": 11,
+    "updates": 7,
+    "deletes": 19,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.baileytownsend.test",
+    "creates": 21,
+    "updates": 2,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.blebbit.test.record",
+    "creates": 220,
+    "updates": 89,
+    "deletes": 218,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.bpavuk.bookmarques.bookmark",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.anilist.list",
+    "creates": 88,
+    "updates": 0,
+    "deletes": 77,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "dev.dreary.anilist.media",
+    "creates": 1612,
+    "updates": 0,
+    "deletes": 1561,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.anilist.user",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 11,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "dev.dreary.archive",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.library.book",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.library.shelf",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.library.shelfitem",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.pdf",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.renpy.asset",
+    "creates": 127,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "dev.dreary.renpy.project",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "dev.dreary.test",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 15,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.tunes.playlist",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.tunes.playlistitem",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.dreary.tunes.track",
+    "creates": 13,
+    "updates": 2,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.eagraf.note",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.flo-bit.about",
+    "creates": 5,
+    "updates": 49,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "dev.flo-bit.blog",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.flo-bit.blog.entry",
+    "creates": 4,
+    "updates": 4,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.flo-bit.head",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.flo-bit.links",
+    "creates": 3,
+    "updates": 13,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "dev.flo-bit.social",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.flo-bit.test",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.flo-bit.theme",
+    "creates": 1,
+    "updates": 14,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.fly.bffbasic.profile",
+    "creates": 2,
+    "updates": 27,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "dev.fudgeu.experimental.atforumv1.feed.post",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.fudgeu.experimental.atforumv1.forum.category",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.fudgeu.experimental.atforumv1.forum.group",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.fudgeu.experimental.atforumv1.forum.identity",
+    "creates": 8,
+    "updates": 4,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.indexx.echo.persona",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.indexx.echo.threadmute",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.indexx.papertrail.book",
+    "creates": 17,
+    "updates": 3,
+    "deletes": 15,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.indexx.papertrail.bookDefs",
+    "creates": 13,
+    "updates": 0,
+    "deletes": 12,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.indexx.phoneActivity",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.indexx.rightnow",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 10,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.jakestout.atguilds.guild",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.jakestout.atguilds.guildMemberClaim",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.m1emi1em.blog.postRef",
+    "creates": 19,
+    "updates": 1,
+    "deletes": 17,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.mikchan.atfs.bookmark",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "dev.mikchan.atfs.data",
+    "creates": 4,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "dev.mkizka.test.subscription",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.ocbwoy3.blueboard.board",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.ocbwoy3.chan.board",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.ocbwoy3.chan.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.ocbwoy3.sns.customMetadata",
+    "creates": 1,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.pages.updowndraft.feed.comment.i142ca63af743403ea2b17c5cc5ba3fb3",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.pages.updowndraft.feed.comment.i269f1d8502034e33a3f7ca6fd11b946a",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.pages.updowndraft.feed.comment.i47421dcf90f540339d1c284b8acf11a5",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.pages.updowndraft.feed.comment.ia0dda79c9fb24c7fa2ed1733b25093f0",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.pages.updowndraft.feed.comment.id5ccce7cb693494c9b651fdfe5171344",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.pages.updowndraft.feed.post",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.pouch.bookmark",
+    "creates": 16,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.regnault.example",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.regnault.webfishing.fish",
+    "creates": 87,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "dev.skywell.file",
+    "creates": 170,
+    "updates": 0,
+    "deletes": 58,
+    "dids_estimate": 21
+  },
+  {
+    "nsid": "dev.starfall.rss.star",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ee.juli.polycule",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ee.juli.test.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "epic.very.swag",
+    "creates": 4,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "events.smokesignal.app.profile",
+    "creates": 142,
+    "updates": 20,
+    "deletes": 2,
+    "dids_estimate": 146
+  },
+  {
+    "nsid": "events.smokesignal.calendar.event",
+    "creates": 41,
+    "updates": 18,
+    "deletes": 1,
+    "dids_estimate": 25
+  },
+  {
+    "nsid": "events.smokesignal.calendar.rsvp",
+    "creates": 103,
+    "updates": 20,
+    "deletes": 1,
+    "dids_estimate": 69
+  },
+  {
+    "nsid": "exchange.recipe.collection",
+    "creates": 3,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "exchange.recipe.profile",
+    "creates": 18,
+    "updates": 20,
+    "deletes": 3,
+    "dids_estimate": 19
+  },
+  {
+    "nsid": "exchange.recipe.recipe",
+    "creates": 23,
+    "updates": 29,
+    "deletes": 2,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "fail.tree.identity.claim",
+    "creates": 15,
+    "updates": 10,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fail.tree.team.membership",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fail.tree.team.profile",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.eggsweeper.score",
+    "creates": 13,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 12
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta.guesses",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta.score",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta1.score",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta2.score",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta3.score",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta4.score",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta5.score",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta6.score",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta7.score",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.beta8.score",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.player.score",
+    "creates": 2604,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "farm.smol.games.skyrdle.score",
+    "creates": 2597,
+    "updates": 0,
+    "deletes": 63,
+    "dids_estimate": 167
+  },
+  {
+    "nsid": "farm.source.review",
+    "creates": 16,
+    "updates": 8,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fi.jaennaet.derp",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fi.jaennaet.test",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "final.test.before.launch",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fm.teal.alpha.actor.profile",
+    "creates": 16,
+    "updates": 51,
+    "deletes": 5,
+    "dids_estimate": 13
+  },
+  {
+    "nsid": "fm.teal.alpha.actor.profileStatus",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fm.teal.alpha.actor.status",
+    "creates": 4,
+    "updates": 14561,
+    "deletes": 1,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "fm.teal.alpha.feed.play",
+    "creates": 37343,
+    "updates": 6,
+    "deletes": 911,
+    "dids_estimate": 23
+  },
+  {
+    "nsid": "fm.teal.alpha.play",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fo.at.links",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "foo.atmocms.config.collection",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "foo.atmocms.config.settings",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "foo.bar.inbox",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fyi.bluelinks.links",
+    "creates": 27,
+    "updates": 30,
+    "deletes": 1,
+    "dids_estimate": 27
+  },
+  {
+    "nsid": "fyi.frontpage.dev.blog.meta",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fyi.numina.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "fyi.unravel.frontpage.comment",
+    "creates": 68,
+    "updates": 0,
+    "deletes": 6,
+    "dids_estimate": 27
+  },
+  {
+    "nsid": "fyi.unravel.frontpage.post",
+    "creates": 178,
+    "updates": 0,
+    "deletes": 20,
+    "dids_estimate": 47
+  },
+  {
+    "nsid": "fyi.unravel.frontpage.vote",
+    "creates": 516,
+    "updates": 0,
+    "deletes": 40,
+    "dids_estimate": 110
+  },
+  {
+    "nsid": "game.protonauts.battle.challenge",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "game.protonauts.critters",
+    "creates": 2,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "game.protonauts.currency",
+    "creates": 1,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "game.protonauts.friends",
+    "creates": 3,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "game.protonauts.inventory",
+    "creates": 2,
+    "updates": 500,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "game.protonauts.player",
+    "creates": 2,
+    "updates": 3057,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "game.protonauts.structures",
+    "creates": 13,
+    "updates": 7,
+    "deletes": 7,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "games.atproto.dev.chess.game",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "garden.lexicon.deeply-mouse.profile",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel",
+    "creates": 16,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglgfp25us2x.members",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglgfp25us2x.notifications",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglksg5y7k2x.members",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglksg5y7k2x.notifications",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkunnkec2x.members",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkunnkec2x.notifications",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkxj3edk2x.members",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkxj3edk2x.messages",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkxj3edk2x.notifications",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkzsg4zc2x.members",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkzsg4zc2x.messages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lglkzsg4zc2x.notifications",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lgll4xbckc2x.members",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 15
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lgll4xbckc2x.messages",
+    "creates": 31,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lgll4xbckc2x.notifications",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 15
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lgpkhmss2k2x.members",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lgpkhmss2k2x.notifications",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lnutvibivk2e.members",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lnutvibivk2e.messages",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lnutvibivk2e.notifications",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lnwrz46t2k2e.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lnwrz46t2k2e.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lpek5bvug22x.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lpek5bvug22x.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcijcsuks2h.members",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcijcsuks2h.messages",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcijcsuks2h.notifications",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjcslo3c2h.members",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjcslo3c2h.messages",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjcslo3c2h.notifications",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjfteavk2h.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjfteavk2h.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjw3eysk2h.members",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjw3eysk2h.messages",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcjw3eysk2h.notifications",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqckiof6ws2h.members",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqckiof6ws2h.messages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqckiof6ws2h.notifications",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqckundin22h.members",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqckundin22h.messages",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqckundin22h.notifications",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcm2qazfc2h.members",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcm2qazfc2h.messages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcm2qazfc2h.notifications",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcnxfgm3k2h.members",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcnxfgm3k2h.messages",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcnxfgm3k2h.notifications",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcowb53cs2h.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcowb53cs2h.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcowfxwfc2h.members",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcowfxwfc2h.messages",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcowfxwfc2h.notifications",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcpxusml22h.members",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcpxusml22h.messages",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcpxusml22h.notifications",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcruvjxcc2h.members",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcruvjxcc2h.messages",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcruvjxcc2h.notifications",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcup3tue22h.members",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev.board.channel.3lqcup3tue22h.notifications",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel",
+    "creates": 29,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqd4njbvec2h.members",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 15
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqd4njbvec2h.messages",
+    "creates": 107,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqd4njbvec2h.notifications",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 15
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqd6ovwikc2h.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqd6ovwikc2h.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfdwbqdic2a.members",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfdwbqdic2a.messages",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfdwbqdic2a.notifications",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfhrmptfk2a.members",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfhrmptfk2a.messages",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfhrmptfk2a.notifications",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfyq3jta22a.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqfyq3jta22a.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg3mc5tns2a.members",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg3mc5tns2a.messages",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg3mc5tns2a.notifications",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg5wpj4k22a.members",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg5wpj4k22a.messages",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg5wpj4k22a.notifications",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg7cep4bc2a.members",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg7cep4bc2a.messages",
+    "creates": 16,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqg7cep4bc2a.notifications",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqgaysclik2a.members",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqgaysclik2a.messages",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqgaysclik2a.notifications",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqwnqikb7k2a.members",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqwnqikb7k2a.messages",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lqwnqikb7k2a.notifications",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lrgtizieis2a.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lrgtizieis2a.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lrilya5twc2a.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lrilya5twc2a.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lsdltl5pvs2a.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lsdltl5pvs2a.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lsdlxjyqlc2a.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lsdlxjyqlc2a.messages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lsdlxjyqlc2a.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzcz2md3g22j.members",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzcz2md3g22j.messages",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzcz2md3g22j.notifications",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzecdrwspk2m.members",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzecdrwspk2m.messages",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzecdrwspk2m.notifications",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzeesbxp4k2m.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzeesbxp4k2m.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzefzypu2c2m.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzefzypu2c2m.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzegbqsuus2m.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzegbqsuus2m.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzegqpcubk2m.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzegqpcubk2m.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzei6z2g4s2m.members",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzei6z2g4s2m.messages",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzei6z2g4s2m.notifications",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzewrjgmac2m.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzewrjgmac2m.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzexzctzok2m.members",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzexzctzok2m.notifications",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzez64wyuk2m.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzez64wyuk2m.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzezngxo4k2m.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzezngxo4k2m.messages",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzezngxo4k2m.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf2jjzms22m.members",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf2jjzms22m.messages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf2jjzms22m.notifications",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf3a3leuc2m.members",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf3a3leuc2m.messages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf3a3leuc2m.notifications",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf3x7kwxc2m.members",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf3x7kwxc2m.messages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.channel.3lzf3x7kwxc2m.notifications",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ge.shadowcaster.dev2.board.crypto.userKeys",
+    "creates": 27,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "get.the.fuck.out.of.my.pancake.thread",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "gg.campground.homeServer",
+    "creates": 8,
+    "updates": 1,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "guide.atproto.experimental.application",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "guide.atproto.experimental.applicationCollection",
+    "creates": 3,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "hello.world.record",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.a",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.b",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.c",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.d",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.e",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.f",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.g",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.h",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.i",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.j",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.k",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.l",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.m",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.n",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.o",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.p",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.q",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.r",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.s",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.t",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.u",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.v",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.w",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.x",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.y",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "how.bun.x.z",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "i.im.index",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "i.index.hello",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "id.ac.ui.cs.amanah.donation.money",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "im.flushing.right.now",
+    "creates": 989,
+    "updates": 27,
+    "deletes": 31,
+    "dids_estimate": 54
+  },
+  {
+    "nsid": "inc.toronto.discover.beta.profile",
+    "creates": 31,
+    "updates": 9,
+    "deletes": 0,
+    "dids_estimate": 21
+  },
+  {
+    "nsid": "inc.toronto.discover.profile",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "index.phone.state",
+    "creates": 1117,
+    "updates": 10,
+    "deletes": 1117,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "industries.geesawra.atpage",
+    "creates": 30,
+    "updates": 0,
+    "deletes": 10,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "industries.geesawra.website",
+    "creates": 1020,
+    "updates": 0,
+    "deletes": 1008,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "ink.henry.annotate.mark",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ink.henry.annotate.trail",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ink.henry.feed.mark",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ink.henry.feed.trail",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.agent.keep.note",
+    "creates": 3,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "io.finxol.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.github.atweb.file",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.github.kylemclean.scheduler.experimental.storedThread",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.github.yourusername.feeds.embeddings",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 41,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.hop.dedyn.crawler.feeds.embeddings",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 75,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.mariotacke.journal.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.whiteside.bookmarks",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.whiteside.linkedAccount",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.whiteside.project",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.whiteside.projects",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.zzstoatzz.cdn.image",
+    "creates": 21,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "io.zzstoatzz.status.record",
+    "creates": 243,
+    "updates": 0,
+    "deletes": 23,
+    "dids_estimate": 20
+  },
+  {
+    "nsid": "is.dame.counting.turtles",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "is.dame.now",
+    "creates": 580,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "is.dame.on.the.toilet",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 10,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "is.dame.s.iphone.okay",
+    "creates": 2568,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "is.onabus.status",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "is.onabus.value",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "is.sherman.dev.article",
+    "creates": 3,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "is.sherman.dev.blog.meta",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "jp.5leaf.sync.mastodon",
+    "creates": 306228,
+    "updates": 0,
+    "deletes": 25,
+    "dids_estimate": 22
+  },
+  {
+    "nsid": "just.a.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "li.plonk.comment",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "li.plonk.paste",
+    "creates": 63,
+    "updates": 3,
+    "deletes": 12,
+    "dids_estimate": 29
+  },
+  {
+    "nsid": "life.smol.installed",
+    "creates": 113,
+    "updates": 3,
+    "deletes": 18,
+    "dids_estimate": 41
+  },
+  {
+    "nsid": "life.smol.resume",
+    "creates": 6,
+    "updates": 25,
+    "deletes": 1,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "life.smol.tipJar",
+    "creates": 29,
+    "updates": 1,
+    "deletes": 20,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "link.flo-bit.dev",
+    "creates": 10,
+    "updates": 24,
+    "deletes": 8,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "link.pastesphere.snippet",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "link.woosh.linkPage",
+    "creates": 81,
+    "updates": 220,
+    "deletes": 7,
+    "dids_estimate": 98
+  },
+  {
+    "nsid": "live.grayhaze.actor.channel",
+    "creates": 12,
+    "updates": 3,
+    "deletes": 2,
+    "dids_estimate": 13
+  },
+  {
+    "nsid": "live.grayhaze.interaction.chat",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "local.task.heartbeat",
+    "creates": 1,
+    "updates": 21,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "lol.atmo.currently",
+    "creates": 1,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "lol.atmo.link",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "lol.skittr.actor.theme",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "lol.skittr.usertheme",
+    "creates": 3,
+    "updates": 15,
+    "deletes": 3,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "lol.tapapp.tap.doc",
+    "creates": 16,
+    "updates": 48,
+    "deletes": 12,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "love.island.rsvp",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "m1.clj.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.atpub.identity.claim",
+    "creates": 8,
+    "updates": 16,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "me.atpub.identity.service",
+    "creates": 47,
+    "updates": 30,
+    "deletes": 31,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "me.comind.blip.concept",
+    "creates": 3241,
+    "updates": 0,
+    "deletes": 925,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "me.comind.blip.emotion",
+    "creates": 978,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "me.comind.blip.thought",
+    "creates": 882,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "me.comind.concept",
+    "creates": 8014,
+    "updates": 0,
+    "deletes": 498,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "me.comind.emotion",
+    "creates": 52,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "me.comind.relationship.concept",
+    "creates": 12429,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.comind.relationship.link",
+    "creates": 1374,
+    "updates": 0,
+    "deletes": 1416,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "me.comind.relationship.sphere",
+    "creates": 21308,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "me.comind.sphere.core",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "me.comind.thought",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.mcroberts.alex.status",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.ngerakines.test",
+    "creates": 1,
+    "updates": 9,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.picheta.imaginarium.list",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.picheta.imaginarium.listitem",
+    "creates": 23,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.picheta.scorecard.event",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.picheta.scorecard.rating",
+    "creates": 867,
+    "updates": 0,
+    "deletes": 225,
+    "dids_estimate": 36
+  },
+  {
+    "nsid": "me.skyspace.aesthetics",
+    "creates": 2322,
+    "updates": 0,
+    "deletes": 2178,
+    "dids_estimate": 134
+  },
+  {
+    "nsid": "me.skyspace.content",
+    "creates": 352,
+    "updates": 0,
+    "deletes": 251,
+    "dids_estimate": 102
+  },
+  {
+    "nsid": "me.subsco.sync.subscription",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "me.wilb.test.run",
+    "creates": 7383,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "meow.meow.meow.meow",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "moe.elysia.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "moe.fanfics.works",
+    "creates": 2,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "moe.hayden.blogi.actor.profile",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "moe.hayden.cookware.recipe",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "moe.herrscher.elysia.nsid",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "moe.herrscher.elysia.test",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "moe.karashiiro.kpaste.paste",
+    "creates": 7,
+    "updates": 8,
+    "deletes": 4,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "moe.kasey.meow",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "moe.wlo.gallery.image",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "my.skylights.listItem",
+    "creates": 162,
+    "updates": 0,
+    "deletes": 15,
+    "dids_estimate": 13
+  },
+  {
+    "nsid": "my.skylights.rel",
+    "creates": 818,
+    "updates": 297,
+    "deletes": 356,
+    "dids_estimate": 37
+  },
+  {
+    "nsid": "my.spoor.log.activity",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "my.test.blob",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "nandi.schema.jazz",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.aftertheinter.cool.thing",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.aftertheinter.coolthing",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.aftertheinter.coolthingtwo",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.anisota.beta.game.collection",
+    "creates": 990,
+    "updates": 797,
+    "deletes": 30,
+    "dids_estimate": 234
+  },
+  {
+    "nsid": "net.anisota.beta.game.dailyRewards",
+    "creates": 2,
+    "updates": 5,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "net.anisota.beta.game.inventory",
+    "creates": 5241,
+    "updates": 2326,
+    "deletes": 210,
+    "dids_estimate": 617
+  },
+  {
+    "nsid": "net.anisota.beta.game.log",
+    "creates": 38942,
+    "updates": 657,
+    "deletes": 2034,
+    "dids_estimate": 1774
+  },
+  {
+    "nsid": "net.anisota.beta.game.pack",
+    "creates": 471,
+    "updates": 1145,
+    "deletes": 24,
+    "dids_estimate": 449
+  },
+  {
+    "nsid": "net.anisota.beta.game.progress",
+    "creates": 10408,
+    "updates": 1,
+    "deletes": 464,
+    "dids_estimate": 846
+  },
+  {
+    "nsid": "net.anisota.beta.game.session",
+    "creates": 11152,
+    "updates": 10,
+    "deletes": 936,
+    "dids_estimate": 1776
+  },
+  {
+    "nsid": "net.anisota.beta.game.specimen",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "net.anisota.feed.draft",
+    "creates": 10,
+    "updates": 6,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.anisota.feed.like",
+    "creates": 91,
+    "updates": 0,
+    "deletes": 17,
+    "dids_estimate": 13
+  },
+  {
+    "nsid": "net.anisota.feed.list",
+    "creates": 117,
+    "updates": 9,
+    "deletes": 10,
+    "dids_estimate": 77
+  },
+  {
+    "nsid": "net.anisota.feed.listItem",
+    "creates": 377,
+    "updates": 0,
+    "deletes": 34,
+    "dids_estimate": 68
+  },
+  {
+    "nsid": "net.anisota.feed.post",
+    "creates": 247,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 32
+  },
+  {
+    "nsid": "net.anisota.feed.repost",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "net.anisota.game.achievement",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 15,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "net.anisota.game.inventory",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "net.anisota.game.progress",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 10,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.anisota.graph.list",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.anisota.graph.listMute",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.anisota.graph.mute",
+    "creates": 23,
+    "updates": 0,
+    "deletes": 10,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "net.anisota.settings",
+    "creates": 44,
+    "updates": 774,
+    "deletes": 2,
+    "dids_estimate": 42
+  },
+  {
+    "nsid": "net.dracoblue.poing",
+    "creates": 47,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.hrkn.personas.bookmark",
+    "creates": 46,
+    "updates": 0,
+    "deletes": 40,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "net.limeleaf.tap.doc",
+    "creates": 2,
+    "updates": 133,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.mmatt.hello",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.mmatt.right.now",
+    "creates": 58,
+    "updates": 2,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.nornoe.avatarArchive",
+    "creates": 571,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.shreyanjain.blog.homepage",
+    "creates": 0,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.shreyanjain.blog.post",
+    "creates": 1,
+    "updates": 3,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "net.shreyanjain.plc.history",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "network.cosmik.card",
+    "creates": 197,
+    "updates": 0,
+    "deletes": 24,
+    "dids_estimate": 11
+  },
+  {
+    "nsid": "network.cosmik.collection",
+    "creates": 90,
+    "updates": 7,
+    "deletes": 8,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "network.cosmik.collectionLink",
+    "creates": 148,
+    "updates": 0,
+    "deletes": 31,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "network.doing.activity",
+    "creates": 4,
+    "updates": 14,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "network.slices.actor.profile",
+    "creates": 5,
+    "updates": 32,
+    "deletes": 2,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "network.slices.lexicon",
+    "creates": 107,
+    "updates": 31,
+    "deletes": 35,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "network.slices.slice",
+    "creates": 20,
+    "updates": 5,
+    "deletes": 13,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "network.slices.waiting",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "network.slices.waitlist.invite",
+    "creates": 22,
+    "updates": 0,
+    "deletes": 18,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "network.slices.waitlist.request",
+    "creates": 220,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 217
+  },
+  {
+    "nsid": "new.record.for.test",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "newsky.write.on.pages",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "nl.nielsjaspers.signalOffer",
+    "creates": 13,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "notebook.groundmist.xyz",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "one.atpage.page",
+    "creates": 17,
+    "updates": 132,
+    "deletes": 1,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "one.two.three",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "one.youronly.im",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.atproto-nix.projects",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.bluepocket.saves",
+    "creates": 1,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.bluepocket.v1.archive",
+    "creates": 39,
+    "updates": 0,
+    "deletes": 16,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.bluepocket.v1.collection",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.bluepocket.v1.collection.saves",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.bluepocket.v1.collection.test",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.bluepocket.v1.favorite",
+    "creates": 40,
+    "updates": 0,
+    "deletes": 32,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.bluepocket.v1.link",
+    "creates": 42,
+    "updates": 32,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "org.bluepocket.v1.save",
+    "creates": 63,
+    "updates": 57,
+    "deletes": 39,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "org.bluepocket.v1.saves",
+    "creates": 1,
+    "updates": 7,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.caonus.pokemon.joinRequest",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.chaoticharmonylabs.orbits.feed",
+    "creates": 32,
+    "updates": 0,
+    "deletes": 32,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.chaoticharmonylabs.orbits.orbit",
+    "creates": 34,
+    "updates": 0,
+    "deletes": 34,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.chaoticharmonylabs.orbits.profile",
+    "creates": 12,
+    "updates": 14,
+    "deletes": 12,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.cwonus.pokemon.game",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.cwonus.pokemon.joinApproval",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.cwonus.pokemon.joinRequest",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.devcon.event",
+    "creates": 109,
+    "updates": 59,
+    "deletes": 3,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "org.devcon.event.test",
+    "creates": 12,
+    "updates": 9,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "org.devcon.event.testcache",
+    "creates": 1,
+    "updates": 6,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.devcon.event.vone",
+    "creates": 4,
+    "updates": 6,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.foo.inbox",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.foo.mystuff.post",
+    "creates": 2,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.impactindexer.changeRequest",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 13,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.impactindexer.proposal",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.impactindexer.status",
+    "creates": 15,
+    "updates": 25,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "org.owdproject.application",
+    "creates": 19,
+    "updates": 333,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "org.owdproject.application.meta",
+    "creates": 5,
+    "updates": 85,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "org.owdproject.application.windows",
+    "creates": 42,
+    "updates": 2100,
+    "deletes": 0,
+    "dids_estimate": 11
+  },
+  {
+    "nsid": "org.owdproject.desktop",
+    "creates": 10,
+    "updates": 512,
+    "deletes": 0,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "org.scrapboard.list",
+    "creates": 198,
+    "updates": 9,
+    "deletes": 10,
+    "dids_estimate": 96
+  },
+  {
+    "nsid": "org.scrapboard.listitem",
+    "creates": 2526,
+    "updates": 0,
+    "deletes": 244,
+    "dids_estimate": 88
+  },
+  {
+    "nsid": "org.tomandmarna.social.experimental.post",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.tomandmarna.social.experimental.toplevelpost",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "org.user-intents.demo.declaration",
+    "creates": 10,
+    "updates": 8,
+    "deletes": 0,
+    "dids_estimate": 9
+  },
+  {
+    "nsid": "org.xcvr.actor.profile",
+    "creates": 8,
+    "updates": 22,
+    "deletes": 0,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "org.xcvr.feed.channel",
+    "creates": 69,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "org.xcvr.lrc.message",
+    "creates": 5819,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "org.xcvr.lrc.signet",
+    "creates": 7347,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "oscar.data.collection",
+    "creates": 6,
+    "updates": 136,
+    "deletes": 5,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "pages.on.sky.write",
+    "creates": 15,
+    "updates": 0,
+    "deletes": 15,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "party.whey.ft.forum.definition",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "party.whey.ft.topic.post",
+    "creates": 13,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "party.whey.ft.topic.reaction",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "personal.bookmark.feed",
+    "creates": 39,
+    "updates": 0,
+    "deletes": 39,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "pet.being.at.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "pet.being.at.profile",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "pet.mewsse.link",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "pet.nel.testrecord",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "pet.nkp.file",
+    "creates": 48,
+    "updates": 0,
+    "deletes": 44,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "pfp.updates.sunny",
+    "creates": 24,
+    "updates": 2,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ph.lemuria.test.hi",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "place.stream.chat.gate",
+    "creates": 78,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "place.stream.chat.hide",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "place.stream.chat.message",
+    "creates": 25489,
+    "updates": 2,
+    "deletes": 1798,
+    "dids_estimate": 674
+  },
+  {
+    "nsid": "place.stream.chat.profile",
+    "creates": 725,
+    "updates": 420,
+    "deletes": 12,
+    "dids_estimate": 735
+  },
+  {
+    "nsid": "place.stream.default.metadata",
+    "creates": 27,
+    "updates": 160,
+    "deletes": 24,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "place.stream.key",
+    "creates": 2236,
+    "updates": 0,
+    "deletes": 357,
+    "dids_estimate": 338
+  },
+  {
+    "nsid": "place.stream.live.metadata",
+    "creates": 17,
+    "updates": 7,
+    "deletes": 17,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "place.stream.livestream",
+    "creates": 1000,
+    "updates": 240,
+    "deletes": 20,
+    "dids_estimate": 165
+  },
+  {
+    "nsid": "place.stream.metadata.configuration",
+    "creates": 12,
+    "updates": 112,
+    "deletes": 9,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "place.stream.server.settings",
+    "creates": 364,
+    "updates": 310,
+    "deletes": 86,
+    "dids_estimate": 255
+  },
+  {
+    "nsid": "place.wisp.css",
+    "creates": 2,
+    "updates": 2,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "place.wisp.fs",
+    "creates": 4,
+    "updates": 4,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "place.wisp.html",
+    "creates": 3,
+    "updates": 2,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "place.wisp.js",
+    "creates": 2,
+    "updates": 2,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "prismatic.review.id",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "pub.leaflet.comment",
+    "creates": 330,
+    "updates": 0,
+    "deletes": 49,
+    "dids_estimate": 108
+  },
+  {
+    "nsid": "pub.leaflet.document",
+    "creates": 1295,
+    "updates": 1921,
+    "deletes": 231,
+    "dids_estimate": 355
+  },
+  {
+    "nsid": "pub.leaflet.graph.subscription",
+    "creates": 1970,
+    "updates": 0,
+    "deletes": 119,
+    "dids_estimate": 580
+  },
+  {
+    "nsid": "pub.leaflet.publication",
+    "creates": 797,
+    "updates": 2906,
+    "deletes": 123,
+    "dids_estimate": 546
+  },
+  {
+    "nsid": "quest.dis.topic",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "red.pinned.concept.bookmark",
+    "creates": 105,
+    "updates": 2,
+    "deletes": 112,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "red.pinned.concept.collection",
+    "creates": 79,
+    "updates": 199,
+    "deletes": 78,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "red.pinned.concept.collectionmember",
+    "creates": 171,
+    "updates": 68,
+    "deletes": 177,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "red.pinned.concept.rootcollection",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 11,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "run.val.qbat.game.v1",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sc.nexus.actor.profile",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sc.nexus.feed.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "science.pubmed.dev.status",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "self.atfile.latest",
+    "creates": 0,
+    "updates": 9,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "self.atfile.latesttest",
+    "creates": 1,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "self.dww.stats",
+    "creates": 0,
+    "updates": 17,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "self.tanglifications.log",
+    "creates": 3215,
+    "updates": 16,
+    "deletes": 486,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "self.tanglifications.state",
+    "creates": 6,
+    "updates": 6070,
+    "deletes": 5,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "self.temp.blob",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "self.test.blah",
+    "creates": 20,
+    "updates": 0,
+    "deletes": 13,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sh.comet.v0.actor.profile",
+    "creates": 2,
+    "updates": 4,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sh.comet.v0.feed.playlist",
+    "creates": 5,
+    "updates": 1,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sh.comet.v0.feed.playlistTrack",
+    "creates": 1605,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sh.comet.v0.feed.repost",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sh.comet.v0.feed.track",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sh.tangled.actor.profile",
+    "creates": 696,
+    "updates": 1147,
+    "deletes": 9,
+    "dids_estimate": 692
+  },
+  {
+    "nsid": "sh.tangled.feed.reaction",
+    "creates": 325,
+    "updates": 1,
+    "deletes": 154,
+    "dids_estimate": 66
+  },
+  {
+    "nsid": "sh.tangled.feed.star",
+    "creates": 3175,
+    "updates": 0,
+    "deletes": 339,
+    "dids_estimate": 726
+  },
+  {
+    "nsid": "sh.tangled.graph.follow",
+    "creates": 2954,
+    "updates": 0,
+    "deletes": 155,
+    "dids_estimate": 646
+  },
+  {
+    "nsid": "sh.tangled.knot",
+    "creates": 233,
+    "updates": 79,
+    "deletes": 117,
+    "dids_estimate": 132
+  },
+  {
+    "nsid": "sh.tangled.knot.member",
+    "creates": 899,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 39
+  },
+  {
+    "nsid": "sh.tangled.label.definition",
+    "creates": 52,
+    "updates": 4,
+    "deletes": 45,
+    "dids_estimate": 7
+  },
+  {
+    "nsid": "sh.tangled.label.op",
+    "creates": 206,
+    "updates": 0,
+    "deletes": 8,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "sh.tangled.publicKey",
+    "creates": 1316,
+    "updates": 0,
+    "deletes": 399,
+    "dids_estimate": 721
+  },
+  {
+    "nsid": "sh.tangled.repo",
+    "creates": 2775,
+    "updates": 914,
+    "deletes": 984,
+    "dids_estimate": 833
+  },
+  {
+    "nsid": "sh.tangled.repo.artifact",
+    "creates": 87,
+    "updates": 0,
+    "deletes": 45,
+    "dids_estimate": 13
+  },
+  {
+    "nsid": "sh.tangled.repo.collaborator",
+    "creates": 86,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 35
+  },
+  {
+    "nsid": "sh.tangled.repo.issue",
+    "creates": 643,
+    "updates": 54,
+    "deletes": 32,
+    "dids_estimate": 187
+  },
+  {
+    "nsid": "sh.tangled.repo.issue.comment",
+    "creates": 753,
+    "updates": 88,
+    "deletes": 32,
+    "dids_estimate": 139
+  },
+  {
+    "nsid": "sh.tangled.repo.issue.state",
+    "creates": 250,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 59
+  },
+  {
+    "nsid": "sh.tangled.repo.pull",
+    "creates": 1186,
+    "updates": 912,
+    "deletes": 56,
+    "dids_estimate": 132
+  },
+  {
+    "nsid": "sh.tangled.repo.pull.comment",
+    "creates": 621,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 74
+  },
+  {
+    "nsid": "sh.tangled.spindle",
+    "creates": 126,
+    "updates": 19,
+    "deletes": 98,
+    "dids_estimate": 42
+  },
+  {
+    "nsid": "sh.tangled.spindle.member",
+    "creates": 2138,
+    "updates": 0,
+    "deletes": 42,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "sh.tangled.string",
+    "creates": 254,
+    "updates": 232,
+    "deletes": 26,
+    "dids_estimate": 126
+  },
+  {
+    "nsid": "sh.tngl.kemonopologist.pages.website",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "site.freakybob.visited",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sky.write.on.pages",
+    "creates": 55,
+    "updates": 17,
+    "deletes": 36,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "skywryter.experimental.deletethis",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "smol.farm.games.skyrdle.beta.score",
+    "creates": 23,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "smol.farm.games.skyrdle.score",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "so.sprk.actor.profile",
+    "creates": 312,
+    "updates": 378,
+    "deletes": 29,
+    "dids_estimate": 281
+  },
+  {
+    "nsid": "so.sprk.chat.message",
+    "creates": 16,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "so.sprk.chat.read",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "so.sprk.feed.audio",
+    "creates": 10,
+    "updates": 2,
+    "deletes": 6,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "so.sprk.feed.like",
+    "creates": 3900,
+    "updates": 0,
+    "deletes": 584,
+    "dids_estimate": 171
+  },
+  {
+    "nsid": "so.sprk.feed.post",
+    "creates": 712,
+    "updates": 7,
+    "deletes": 276,
+    "dids_estimate": 91
+  },
+  {
+    "nsid": "so.sprk.feed.story",
+    "creates": 71,
+    "updates": 6,
+    "deletes": 11,
+    "dids_estimate": 21
+  },
+  {
+    "nsid": "so.sprk.graph.follow",
+    "creates": 53314,
+    "updates": 1,
+    "deletes": 3409,
+    "dids_estimate": 121
+  },
+  {
+    "nsid": "social.atexplore.verifiers",
+    "creates": 3,
+    "updates": 2,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.atrena.block",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.bsky.burlybelly.hack.website",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.bsky.oxetone.test",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.bucket.can.mapping",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.campsite.post",
+    "creates": 13,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.clippr.actor.profile",
+    "creates": 17,
+    "updates": 18,
+    "deletes": 15,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "social.clippr.clips.item",
+    "creates": 21,
+    "updates": 1,
+    "deletes": 21,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.clippr.clips.tag",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.clippr.feed.clip",
+    "creates": 23,
+    "updates": 1,
+    "deletes": 21,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.clippr.feed.tag",
+    "creates": 30,
+    "updates": 3,
+    "deletes": 29,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.deer.bsky.feed.generator",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.grain.actor.profile",
+    "creates": 282,
+    "updates": 603,
+    "deletes": 11,
+    "dids_estimate": 273
+  },
+  {
+    "nsid": "social.grain.comment",
+    "creates": 221,
+    "updates": 0,
+    "deletes": 122,
+    "dids_estimate": 16
+  },
+  {
+    "nsid": "social.grain.favorite",
+    "creates": 618,
+    "updates": 0,
+    "deletes": 158,
+    "dids_estimate": 81
+  },
+  {
+    "nsid": "social.grain.gallery",
+    "creates": 342,
+    "updates": 177,
+    "deletes": 160,
+    "dids_estimate": 99
+  },
+  {
+    "nsid": "social.grain.gallery.item",
+    "creates": 2047,
+    "updates": 1466,
+    "deletes": 658,
+    "dids_estimate": 93
+  },
+  {
+    "nsid": "social.grain.gallery.photo",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.grain.graph.follow",
+    "creates": 204,
+    "updates": 2,
+    "deletes": 86,
+    "dids_estimate": 48
+  },
+  {
+    "nsid": "social.grain.labeler.service",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.grain.photo",
+    "creates": 2240,
+    "updates": 390,
+    "deletes": 545,
+    "dids_estimate": 105
+  },
+  {
+    "nsid": "social.grain.photo.exif",
+    "creates": 897,
+    "updates": 0,
+    "deletes": 167,
+    "dids_estimate": 42
+  },
+  {
+    "nsid": "social.grain.v0.actor.profile",
+    "creates": 2,
+    "updates": 4,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "social.grain.v0.gallery",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.grain.v0.gallery.star",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.graze.feed.postitem",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.impro.endorsement",
+    "creates": 35,
+    "updates": 17,
+    "deletes": 15,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "social.impro.managedList",
+    "creates": 4,
+    "updates": 10,
+    "deletes": 1,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "social.impro.nodeRegistration",
+    "creates": 10,
+    "updates": 2,
+    "deletes": 7,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "social.impro.nodeStatus",
+    "creates": 2,
+    "updates": 1,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.impro.vibeCheck.pass",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.pinksky.app.collection",
+    "creates": 529,
+    "updates": 0,
+    "deletes": 305,
+    "dids_estimate": 267
+  },
+  {
+    "nsid": "social.pinksky.app.preference",
+    "creates": 7333,
+    "updates": 1,
+    "deletes": 1370,
+    "dids_estimate": 4802
+  },
+  {
+    "nsid": "social.pipup.blog.entry",
+    "creates": 126,
+    "updates": 261,
+    "deletes": 120,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "social.pmsky.proposal",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.pmsky.vote",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.popfeed.actor.profile",
+    "creates": 104,
+    "updates": 81,
+    "deletes": 0,
+    "dids_estimate": 104
+  },
+  {
+    "nsid": "social.popfeed.feed",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.popfeed.feed.comment",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.popfeed.feed.like",
+    "creates": 42,
+    "updates": 0,
+    "deletes": 5,
+    "dids_estimate": 15
+  },
+  {
+    "nsid": "social.popfeed.feed.list",
+    "creates": 417,
+    "updates": 87,
+    "deletes": 6,
+    "dids_estimate": 87
+  },
+  {
+    "nsid": "social.popfeed.feed.listItem",
+    "creates": 10488,
+    "updates": 61,
+    "deletes": 93,
+    "dids_estimate": 85
+  },
+  {
+    "nsid": "social.popfeed.feed.note",
+    "creates": 42,
+    "updates": 0,
+    "deletes": 25,
+    "dids_estimate": 8
+  },
+  {
+    "nsid": "social.popfeed.feed.post",
+    "creates": 9,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "social.popfeed.feed.review",
+    "creates": 3873,
+    "updates": 31,
+    "deletes": 37,
+    "dids_estimate": 69
+  },
+  {
+    "nsid": "social.psky.actor.profile",
+    "creates": 23,
+    "updates": 7,
+    "deletes": 1,
+    "dids_estimate": 26
+  },
+  {
+    "nsid": "social.psky.chat.message",
+    "creates": 48,
+    "updates": 0,
+    "deletes": 1023,
+    "dids_estimate": 31
+  },
+  {
+    "nsid": "social.psky.chat.room",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.sign.blog.entry",
+    "creates": 77,
+    "updates": 116,
+    "deletes": 78,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.cert.client",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.cert.root",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.profile.wallet",
+    "creates": 3,
+    "updates": 1,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.wallet.ethereum",
+    "creates": 6,
+    "updates": 1,
+    "deletes": 5,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.wallet.solana",
+    "creates": 8,
+    "updates": 1,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.wallet.xrp",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.x509",
+    "creates": 116,
+    "updates": 41,
+    "deletes": 112,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "social.skyfi.x509.client",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skyfi.x509.root",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skywryter.experimental.comment",
+    "creates": 8,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skywryter.experimental.downvote",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skywryter.experimental.post",
+    "creates": 16,
+    "updates": 1,
+    "deletes": 6,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "social.skywryter.experimental.stratum",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skywryter.experimental.stratumRegistration",
+    "creates": 2,
+    "updates": 3,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.skywryter.experimental.upvote",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.slices.actor.profile",
+    "creates": 6,
+    "updates": 37,
+    "deletes": 4,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "social.slices.lexicon",
+    "creates": 73,
+    "updates": 4,
+    "deletes": 39,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.slices.oauthclient",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "social.slices.slice",
+    "creates": 52,
+    "updates": 51,
+    "deletes": 43,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "some.collection.to.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "some.new.coll.here",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "sophspots.cool.thing",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "space.aoisora.bookmark",
+    "creates": 489,
+    "updates": 13,
+    "deletes": 23,
+    "dids_estimate": 32
+  },
+  {
+    "nsid": "space.essem.file.dir",
+    "creates": 7,
+    "updates": 16,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "space.polypod.tile",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "space.roomy.image",
+    "creates": 18,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "space.roomy.stream",
+    "creates": 27,
+    "updates": 4,
+    "deletes": 27,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "space.roomy.stream.dev",
+    "creates": 12,
+    "updates": 3,
+    "deletes": 2,
+    "dids_estimate": 10
+  },
+  {
+    "nsid": "space.roomy.stream.dev.local",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "space.swsh.feed.entry",
+    "creates": 43,
+    "updates": 23,
+    "deletes": 38,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "st.snowpo.post",
+    "creates": 34,
+    "updates": 31,
+    "deletes": 9,
+    "dids_estimate": 13
+  },
+  {
+    "nsid": "stream.thought.ack",
+    "creates": 13717,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 12
+  },
+  {
+    "nsid": "stream.thought.blip",
+    "creates": 1648,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 20
+  },
+  {
+    "nsid": "stream.thought.document",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "stream.thought.journal",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "stream.thought.journal.day",
+    "creates": 19,
+    "updates": 1409,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "stream.thought.journal.month",
+    "creates": 3,
+    "updates": 668,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "stream.thought.journal.year",
+    "creates": 2,
+    "updates": 497,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "stream.thought.reasoning",
+    "creates": 60507,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "stream.thought.tool.call",
+    "creates": 52254,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "systems.gaze.atfronter.fronter",
+    "creates": 2777,
+    "updates": 0,
+    "deletes": 206,
+    "dids_estimate": 16
+  },
+  {
+    "nsid": "systems.gaze.barometer.host",
+    "creates": 14,
+    "updates": 0,
+    "deletes": 13,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "systems.gaze.barometer.service",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "systems.gaze.barometer.state",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tbd.music.track",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test.atproto.blobTest",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test.bb.statusphere.status",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test.example.counter",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test.hypermedia.record",
+    "creates": 1233,
+    "updates": 0,
+    "deletes": 1101,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test.please.ignore",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test.test.test",
+    "creates": 13,
+    "updates": 5,
+    "deletes": 12,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "test.vwousu.com",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test.woosh.linkPage",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "test2.hypermedia.schema",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 9,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "testing.some.collection.records",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "this.is.a.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tools.atp.borgle.play",
+    "creates": 183,
+    "updates": 0,
+    "deletes": 30,
+    "dids_estimate": 47
+  },
+  {
+    "nsid": "tools.atp.typing.test",
+    "creates": 2731,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 14
+  },
+  {
+    "nsid": "tools.graze.aip.profile",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tools.ozone.moderation.event",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tools.ozone.team.defs",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tools.smokesignal.blahg.content.post",
+    "creates": 24,
+    "updates": 27,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "tree.fail.identity.claim",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "ts.pmo.dih",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tv.rizzler.actor.profile",
+    "creates": 6,
+    "updates": 17,
+    "deletes": 0,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "tv.rizzler.feed.comment",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tv.rizzler.feed.like",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "tv.rizzler.feed.post",
+    "creates": 7,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "tv.rizzler.feed.repost",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 7,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "tv.rizzler.feed.rizzler",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "tv.rizzler.graph.follow",
+    "creates": 17,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 4
+  },
+  {
+    "nsid": "ufos.are.real.sightings",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "uk.atproto.bookmark.list",
+    "creates": 5,
+    "updates": 4,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "uk.atproto.bookmark.listItem",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "uk.ewancroft.dnd.character",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 8,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "uk.ewancroft.now",
+    "creates": 257,
+    "updates": 9,
+    "deletes": 120,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "uk.ewancroft.pro.info",
+    "creates": 4,
+    "updates": 4,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "uk.ewancroft.site.info",
+    "creates": 12,
+    "updates": 4,
+    "deletes": 11,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "uk.ewancroft.snake.score",
+    "creates": 71,
+    "updates": 1,
+    "deletes": 1,
+    "dids_estimate": 6
+  },
+  {
+    "nsid": "uk.skyblur.post",
+    "creates": 13818,
+    "updates": 3955,
+    "deletes": 917,
+    "dids_estimate": 1819
+  },
+  {
+    "nsid": "uk.skyblur.preference",
+    "creates": 91,
+    "updates": 209,
+    "deletes": 4,
+    "dids_estimate": 95
+  },
+  {
+    "nsid": "up.you.give.gonna.never",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "us.delicio.bookmark",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "us.polhem.atproto-starter.post",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "us.polhem.blog.post",
+    "creates": 0,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "user.bookmark.feed.public",
+    "creates": 100,
+    "updates": 6,
+    "deletes": 13,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "vin.ste.test",
+    "creates": 6,
+    "updates": 1,
+    "deletes": 7,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "vwxyz.statusphere.status",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "web.kaleidoscope.auth.key",
+    "creates": 1124,
+    "updates": 0,
+    "deletes": 1106,
+    "dids_estimate": 17
+  },
+  {
+    "nsid": "web.kaleidoscope.test",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "win.tomo-x.atunits.unit",
+    "creates": 6,
+    "updates": 2,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "work.doing.account",
+    "creates": 1,
+    "updates": 10,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "work.doing.graph.connection",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "work.doing.person.resume",
+    "creates": 2,
+    "updates": 42,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "work.doing.post",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "work.doing.resume",
+    "creates": 2,
+    "updates": 18,
+    "deletes": 2,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "works.catalog.album",
+    "creates": 18,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "works.catalog.artist",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "works.catalog.nowPlaying",
+    "creates": 1,
+    "updates": 568,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "works.catalog.scrobble",
+    "creates": 18,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "works.catalog.track",
+    "creates": 19,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "wtf.jik.customNote",
+    "creates": 67,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "wtf.oops.test",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "x.clacks.overhead",
+    "creates": 0,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xxx.statusphere.status",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyx.statusphere.status",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.addmoresphere.vertexAssignment",
+    "creates": 11,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 3
+  },
+  {
+    "nsid": "xyz.atland.action",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.byemc.byespace.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.flatshcards.stack",
+    "creates": 5,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.groundmist.library.content",
+    "creates": 34,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "xyz.groundmist.notebook.essay",
+    "creates": 0,
+    "updates": 0,
+    "deletes": 3,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.groundmist.sync",
+    "creates": 1,
+    "updates": 5,
+    "deletes": 1,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "xyz.hyperspace.status",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.hypersphere.status",
+    "creates": 22,
+    "updates": 0,
+    "deletes": 4,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.imaginarymachines.infodump.list",
+    "creates": 1,
+    "updates": 3,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.imaginarymachines.lists.list",
+    "creates": 10,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.imaginarymachines.lists.listItem",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.imaginarymachines.trees.tree",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.j4ck.status",
+    "creates": 168,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.jeroba.heartbeat",
+    "creates": 42,
+    "updates": 0,
+    "deletes": 13,
+    "dids_estimate": 5
+  },
+  {
+    "nsid": "xyz.jeroba.tags.tag",
+    "creates": 38,
+    "updates": 3,
+    "deletes": 9,
+    "dids_estimate": 20
+  },
+  {
+    "nsid": "xyz.jeroba.tags.tagged",
+    "creates": 398,
+    "updates": 0,
+    "deletes": 30,
+    "dids_estimate": 14
+  },
+  {
+    "nsid": "xyz.listen.fm",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.longpost.status",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.sliceat.lexicon",
+    "creates": 6,
+    "updates": 0,
+    "deletes": 6,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.sliceat.slice",
+    "creates": 17,
+    "updates": 4,
+    "deletes": 17,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.statuscity.status",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 2,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.statusphere.linkRating",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.statusphere.pomodoroSession",
+    "creates": 4,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.statusphere.private.key",
+    "creates": 8,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 2
+  },
+  {
+    "nsid": "xyz.statusphere.private.message",
+    "creates": 12,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.statusphere.private.status",
+    "creates": 4,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.statusphere.status",
+    "creates": 2366,
+    "updates": 14,
+    "deletes": 96,
+    "dids_estimate": 311
+  },
+  {
+    "nsid": "xyz.statusphere.thought",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.tabletop.gameSystem",
+    "creates": 3,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.test.test",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 1,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "xyz.testapp.testpost",
+    "creates": 1,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "zig.boom.inbox",
+    "creates": 1,
+    "updates": 1,
+    "deletes": 0,
+    "dids_estimate": 1
+  },
+  {
+    "nsid": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "creates": 2,
+    "updates": 0,
+    "deletes": 0,
+    "dids_estimate": 1
+  }
+]
