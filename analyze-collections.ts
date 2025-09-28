@@ -24,13 +24,43 @@ await writeFile(
 );
 console.log("Collections analysis saved to collections-analysis.csv");
 
+// Next, we get the data about the collections, namespaces, and domains
+// that are out there, so we can use them to interpret the data in the next steps
+const collectionsSummaryContent = ["domain,namespace,collection"];
+const collections = Object.keys(collectionsData);
+for (const collection of collections) {
+  const [tld, name, group] = collection.split(".");
+  collectionsSummaryContent.push(
+    [`${tld}.${name}`, `${tld}.${name}.${group}`, collection].join(",")
+  );
+}
+
+await writeFile(
+  "./data/collections-summary.csv",
+  collectionsSummaryContent.join("\n"),
+  "utf-8"
+);
+console.log("Collections summary saved to collections-summary.csv");
+console.log(`Collections: ${collections.length}`);
+console.log(
+  `Namespaces: ${
+    new Set(collectionsSummaryContent.map((c) => c.split(",")[1])).size
+  }`
+);
+console.log(
+  `Domains: ${
+    new Set(collectionsSummaryContent.map((c) => c.split(",")[0])).size
+  }`
+);
+
 // Next, for each key, we get the list of collections that have it
 // and save it to another CSV file
 const keyMappingContent = [
-  "key,collections_count,namespaces_count,collections,namespaces",
+  "key,collections_count,namespaces_count,domains_count,collections,namespaces,domains",
 ];
 const keyToCollections: Record<string, string[]> = {};
 const keyToNamespaces: Record<string, string[]> = {};
+const keyToDomains: Record<string, string[]> = {};
 
 for (const [collection, data] of Object.entries(collectionsData)) {
   for (const key of data.keys) {
@@ -39,6 +69,8 @@ for (const [collection, data] of Object.entries(collectionsData)) {
     const [tld, name, group] = collection.split(".");
     keyToNamespaces[key] ??= [];
     keyToNamespaces[key].push(`${tld}.${name}.${group}`);
+    keyToDomains[key] ??= [];
+    keyToDomains[key].push(`${tld}.${name}`);
   }
 }
 
@@ -47,13 +79,16 @@ for (const [collection, data] of Object.entries(collectionsData)) {
 for (const key of Object.keys(keyToCollections)) {
   keyToCollections[key] = [...new Set(keyToCollections[key])];
   keyToNamespaces[key] = [...new Set(keyToNamespaces[key])];
+  keyToDomains[key] = [...new Set(keyToDomains[key])];
   keyMappingContent.push(
     [
       `"${key}"`,
       `"${keyToCollections[key].length}"`,
       `"${keyToNamespaces[key].length}"`,
+      `"${keyToDomains[key].length}"`,
       `"${keyToCollections[key].join(";")}"`,
       `"${keyToNamespaces[key].join(";")}"`,
+      `"${keyToDomains[key].join(";")}"`,
     ].join(",")
   );
 }
@@ -70,10 +105,11 @@ console.log("Key-to-collections mapping saved to key-to-collections-map.csv");
 // need to exclude the collection of that same type. Some appear to be nested,
 // and that's interesting by itself.
 const typeMappingContent = [
-  "type,collections_count,namespaces_count,collections,namespaces",
+  "type,collections_count,namespaces_count,domains_count,collections,namespaces,domains",
 ];
 const typeToCollections: Record<string, string[]> = {};
 const typeToNamespaces: Record<string, string[]> = {};
+const typeToDomains: Record<string, string[]> = {};
 
 for (const [collection, data] of Object.entries(collectionsData)) {
   for (const type of data.types) {
@@ -82,6 +118,8 @@ for (const [collection, data] of Object.entries(collectionsData)) {
     const [tld, name, group] = collection.split(".");
     typeToNamespaces[type] ??= [];
     typeToNamespaces[type].push(`${tld}.${name}.${group}`);
+    typeToDomains[type] ??= [];
+    typeToDomains[type].push(`${tld}.${name}`);
   }
 }
 
@@ -89,13 +127,16 @@ for (const [collection, data] of Object.entries(collectionsData)) {
 for (const type of Object.keys(typeToCollections)) {
   typeToCollections[type] = [...new Set(typeToCollections[type])];
   typeToNamespaces[type] = [...new Set(typeToNamespaces[type])];
+  typeToDomains[type] = [...new Set(typeToDomains[type])];
   typeMappingContent.push(
     [
       `"${type}"`,
       `"${typeToCollections[type].length}"`,
       `"${typeToNamespaces[type].length}"`,
+      `"${typeToDomains[type].length}"`,
       `"${typeToCollections[type].join(";")}"`,
       `"${typeToNamespaces[type].join(";")}"`,
+      `"${typeToDomains[type].join(";")}"`,
     ].join(",")
   );
 }

@@ -46,23 +46,36 @@ creates:
    - `types`: all subtypes in the collection's records, joined by `;`
    - `record_folder`: the source folder for these records
 
-2. `keys-to-collections-map.csv`, a CSV file with a line for each key that
+1. `collections-summary.csv`, a CSV file with a line for each collection,
+   containing (assuming `app.bsky.feed.post` as example):
+
+   - `domain`: The tld + domain of the collection (`app.bsky`)
+   - `namespace`: the namespace of the collection (`app.bsky.feed`)
+   - `collection`: the full name of the collection (`app.bsky.feed.post`)
+
+1. `keys-to-collections-map.csv`, a CSV file with a line for each key that
    appears in collections, containing:
 
    - `key`: a key as it appears collection records
    - `collections_count`: how many collections include that key
-   - `namespaces_count`: how many namespaces (e.g. `app.bsky.social`) include
+   - `namespaces_count`: how many namespaces (e.g. `app.bsky.feed`) include
+     that key
+   - `domains_count`: how many domains (e.g. `app.bsky`) include
      that key
    - `collections`: which collections include that key, joined by ";"
    - `namespaces`: which namespaces include that key, joined by ";"
+   - `domains`: which domains (e.g. `app.bsky`) include that key, joined by ";"
 
-3. `types-to-collections-map.csv`, a CSV file with a line for each type that
+1. `types-to-collections-map.csv`, a CSV file with a line for each type that
    appears as a nested type in a collection, containing:
 
    - `type`: a type as it appears in a $type filed of a collection record (but
      not the top level record)
    - `collections_count`: how many collections include that type
-   - `namespaces_count`: how many namespaces (e.g. `app.bsky.social`) include
+   - `namespaces_count`: how many namespaces (e.g. `app.bsky.feed`) include
+     that type
+   - `domains_count`: how many domains (e.g. `app.bsky`) include
      that type
    - `collections`: which collections include that type, separated by ;
    - `namespaces`: which namespaces include that type, joined by ";"
+   - `domains`: which domains (e.g. `app.bsky`) include that type, joined by ";"
